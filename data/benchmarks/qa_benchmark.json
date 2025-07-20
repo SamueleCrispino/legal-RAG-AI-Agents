@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is the primary objective of Regulation (EU) 2016/679, also known as the General Data Protection Regulation (GDPR)?",
+    "answer": "Regulation (EU) 2016/679, also known as the General Data Protection Regulation (GDPR), lays down rules relating to the protection of natural persons with regard to the processing of personal data and rules relating to the free movement of personal data. Its primary objectives include protecting the fundamental rights and freedoms of natural persons, particularly their right to the protection of personal data, and ensuring that the free movement of personal data within the Union is neither restricted nor prohibited for reasons connected with data protection. [cite: 1, 5, 255, 256, 257]",
+    "coverage": "Document-level",
+    "complexity": "Single-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "protection of natural persons",
+      "free movement of personal data",
+      "fundamental rights"
+    ],
+    "main_document": "GDPR"
+  },
+  {
+    "question": "How does the GDPR define an 'identifiable natural person' in relation to personal data?",
+    "answer": "An 'identifiable natural person' is defined as someone who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. This includes personal data that has undergone pseudonymisation if it can be attributed to a natural person by the use of additional information. To determine identifiability, all means reasonably likely to be used, considering costs, time, and available technology, should be taken into account. The GDPR principles do not apply to anonymous information (data that does not relate to an identified or identifiable natural person or is rendered anonymous) or to the personal data of deceased persons. [cite: 42, 43, 44, 45, 46, 47, 48, 49]",
+    "coverage": "Paragraph-level",
+    "complexity": "Single-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "identified, directly or indirectly",
+      "online identifier",
+      "social identity"
+    ],
+    "main_document": "GDPR"
+  },
+  {
+    "question": "What are the key conditions for obtaining valid consent from a data subject under the GDPR?",
+    "answer": "For consent to be valid under the GDPR, it must be given by a clear affirmative act, establishing a freely given, specific, informed, and unambiguous indication of the data subject's agreement to the processing of personal data. This can include written or oral statements, ticking a box on a website, or choosing technical settings, as long as it clearly indicates acceptance. Silence, pre-ticked boxes, or inactivity do not constitute consent. The data subject must be aware of the controller's identity and the purposes of processing. Consent is not freely given if the data subject lacks genuine choice, cannot refuse or withdraw consent without detriment, or if it is a prerequisite for a contract performance when not necessary. [cite: 511, 512, 513, 558, 559, 560, 561]",
+    "coverage": "Paragraph-level",
+    "complexity": "Single-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "clearly distinguishable",
+      "withdraw",
+      "freely given"
+    ],
+    "main_document": "GDPR"
+  },
+  {
+    "question": "Under what conditions does the GDPR apply to controllers or processors not established within the European Union?",
+    "answer": "The GDPR applies to controllers or processors not established in the Union under two main conditions. Firstly, if their processing activities are related to offering goods or services to data subjects located within the Union, regardless of whether a payment is involved. This intent can be inferred from factors such as using a language or currency common in EU Member States, or explicitly mentioning EU customers. Secondly, it applies if the processing activities are related to monitoring the behavior of data subjects as far as their behavior takes place within the Union, which includes tracking individuals online for profiling purposes to analyze or predict personal preferences, behaviors, and attitudes. [cite: 488, 489, 490, 491, 492]",
+    "coverage": "Paragraph-level",
+    "complexity": "Single-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "offering of goods or services",
+      "data subjects in the Union"
+    ],
+    "main_document": "GDPR"
+  },
+  {
+    "question": "Can you describe the right to data portability as outlined in the GDPR?",
+    "answer": "The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided",
+    "coverage": "Paragraph-level",
+    "complexity": "Single-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "in a structured, commonly used and machine-readable format",
+      "without hindrance from the controller",
+      "receive the personal data concerning him or her"
+    ],
+    "main_document": "GDPR"
+  },
+  {
+    "question": "Which are the general data protection principles that shall specified as binding corporate rules according to the Article 47 of GDPR?",
+    "answer": "The GDPR emphasizes several core data protection principles to ensure lawful and fair processing of personal data. These include lawfulness, fairness, and transparency, requiring that processing be clear, accessible, and understandable to data subjects. Personal data should be collected for explicit, legitimate, and specified purposes, and should be adequate, relevant, and limited to what is necessary for those purposes (data minimization). There should be limits on storage periods, ensuring data is not kept longer than necessary, and inaccurate data should be rectified or deleted. Finally, personal data must be processed securely, ensuring confidentiality and protection against unauthorized access or use. [cite: 386, 539, 540, 541, 542, 544, 545, 546, 547, 548, 549, 550]",
+    "coverage": "Paragraph-level",
+    "complexity": "Single-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "data quality",
+      "purpose limitation",
+      "data minimisation",
+      "limited storage periods",
+      "data security"
+    ],
+    "main_document": "GDPR"
+  },
+  {
+    "question": "What are the two main ambitions of the article regarding the EU's Artificial Intelligence Act (AIA)?",
+    "answer": "First, it explains how the EU's new Artificial Intelligence Act (AIA) may be implemented and enforced by various institutional bodies, thus clarifying the governance framework of the AIA. Second, it proposes a normative governance model, providing recommendations to ensure uniform and coordinated execution of the AIA and the fulfillment of the legislation.",
+    "coverage": "Section-level",
+    "complexity": "Single-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "(AIA) may be implemented and enforced by",
+      "normative governance model"
+    ],
+    "main_document": "A_robust_governance_for_the_AI_Act"
+  },
+  {
+    "question": "Which institutional bodies, both supranational and national, are underscored by the AIA in Chapter VII ('Governance') for its effective implementation?",
+    "answer": "The AI Office, the European AI Board, the Advisory Forum, the Scientific Panel, and national competent authorities in each Member State.",
+    "coverage": "Section-level",
+    "complexity": "Single-hop",
+    "answer_length": "medium",
+    "sources": "snippet_1",
+    "answer_span": [
+      "different institutional bodies"
+    ],
+    "main_document": "A_robust_governance_for_the_AI_Act"
+  },
+  {
+    "question": "What are the three institutional design options available at the EU level for establishing executive capacities for regulating and enforcing AI?",
+    "answer": "Option 1 suggests a centralised institutional design to incorporate tasks related to AI regulations within the remit of the Commission. Option 2 is a decentralised institutional design incorporating AI-related tasks in EU-level agencies. Option 3 implements a hybrid institutional design with AI-related tasks established within the Commission in a designated DG, with one or several EU-level agencies governing at arm's length from the Commission DG and working closely with other relevant DGs.",
+    "coverage": "Section-level",
+    "complexity": "Multi-hop",
+    "answer_length": "long",
+    "sources": "snippet_1",
+    "answer_span": [
+      "centralised institutional design",
+      "decentralised institutional design",
+      "hybrid institutional design"
+    ],
+    "main_document": "A_robust_governance_for_the_AI_Act"
+  },
+  {
+    "question": "What is the primary mission of the AI Office according to the Commission Decision?",
+    "answer": "To ensure the harmonised implementation and enforcement of the AIA.",
+    "coverage": "Article-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "snippet_3",
+    "answer_span": [
+      "ensure the harmonised implementation and enforcement"
+    ],
+    "main_document": "A_robust_governance_for_the_AI_Act"
+  },
+  {
+    "question": "Does the AI Office issue binding decisions on its own?",
+    "answer": "No, the AI Office does not issue binding decisions on its own. Instead, it provides support and advice to the Commission.",
+    "coverage": "Section-level",
+    "complexity": "Single-hop",
+    "answer_length": "medium",
+    "sources": "snippet_3",
+    "answer_span": [
+      "it provides support and advice"
+    ],
+    "main_document": "A_robust_governance_for_the_AI_Act"
+  },
+  {
+    "question": "What is the role of the European AI Board?",
+    "answer": "The European AI Board is expected to ensure coordination among Member States.",
+    "coverage": "Section-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "snippet_2",
+    "answer_span": [
+      "ensure coordination among Member States"
+    ],
+    "main_document": "A_robust_governance_for_the_AI_Act"
+  },
+  {
+    "question": "What are the two primary constraints on the operational autonomy of the AI Office?",
+    "answer": "First, its incorporation into the administrative structure of DG-CNECT means that DG-CNECT’s management plan will guide the AI Office’s strategic priorities and the distribution of resources. Second, the operational autonomy of the AI Office is further restricted by the defined competencies of other entities, including EU bodies, offices, agencies, and national authorities.",
+    "coverage": "Section-level",
+    "complexity": "Multi-hop",
+    "answer_length": "long",
+    "sources": "snippet_3",
+    "answer_span": [
+      "administrative structure of DG-CNECT",
+      "defined competencies of other entities"
+    ],
+    "main_document": "A_robust_governance_for_the_AI_Act"
+  },
+  {
+    "question": "An AI system performing social scoring is considered prohibited according to the AI Act?",
+    "answer": "Yes, it is prohibited according to the Article 5 of the AI Act",
+    "coverage": "Article-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Article 5",
+    "answer_span": ["Article 5", "social behaviour"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "Under what conditions and by whom may testing of high-risk AI systems in real-world environments be conducted outside of AI regulatory sandboxes, while still respecting the prohibitions outlined in Article 5 of the AI Act?",
+    "answer": "As described in Article 60, testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes may be conducted by providers or prospective providers of high-risk AI systems listed in Annex III, in accordance with this Article and the real-world testing plan referred to in this Article, without prejudice to the prohibitions under Article 5",
+    "coverage": "Article-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Article 60",
+    "answer_span": ["providers", "Article 5", "Annex III", "Article 60"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "Which article of the AI Act mandates a conformity assessment for high-risk AI systems?",
+    "answer": "Article 43",
+    "coverage": "Article-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Article 43",
+    "answer_span": ["Article 43"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "How does Article 43 of the AI Act relate to the GDPR's requirements for data protection impact assessments?",
+    "answer": "Article 43 requires a conformity assessment covering risk management and system performance; GDPR requires a Data Protection Impact Assessment covering data privacy risks. Both ensure risk identification but focus on different domains.",
+    "coverage": "Article-level",
+    "complexity": "Two-hop",
+    "answer_length": "long",
+    "sources": "Article 43; GDPR Article 35",
+    "answer_span": ["Article 43", "GDPR Article 35"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "If a company uses an AI-based recruitment tool, which obligations under the AI Act and GDPR apply?",
+    "answer": "Under the AI Act, the tool is high-risk (Annex III), so it needs a conformity assessment (Art. 43) and transparency information (Art. 13). Under GDPR, the company must conduct a DPIA (Art. 35) and inform candidates about automated decision-making (Art. 22).",
+    "coverage": "Article-level",
+    "complexity": "Scenario-driven",
+    "answer_length": "long",
+    "sources": "AI Act Articles 13, 43; GDPR Articles 22, 35",
+    "answer_span": [
+      "Article 13",
+      "Article 43",
+      "Article 22",
+      "Article 35"
+    ],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "Which article of the AI Act defines the classification rules for 'high-risk AI systems'?",
+    "answer": "Article 6",
+    "coverage": "Article-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Article 6",
+    "answer_span": ["Article 6"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "Compare how Recital 14 of the AI Act and Recital 75 of the GDPR describe risk assessment obligations.",
+    "answer": "Recital 14 of the AI Act highlights risk categorization for AI systems, while Recital 75 of the GDPR emphasizes assessing risks to individuals’ rights. Both demand systematic risk evaluation but target different scopes.",
+    "coverage": "Recital-level",
+    "complexity": "Two-hop",
+    "answer_length": "long",
+    "sources": "AI Act Recital 14; GDPR Recital 75",
+    "answer_span": ["Recital 14", "Recital 75"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "A healthcare provider uses an AI diagnostic tool. Based on Recitals 14 and 75, what risk assessments are required?",
+    "answer": "Per Recital 14, classify the tool as high-risk then apply the AI Act’s risk management. Recital 75 requires a DPIA under GDPR to evaluate impacts on patient rights and freedoms.",
+    "coverage": "Recital-level",
+    "complexity": "Scenario-driven",
+    "answer_length": "long",
+    "sources": "AI Act Recital 14; GDPR Recital 75",
+    "answer_span": ["Recital 14", "Recital 75"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "Name one sector listed in Annex III of the AI Act considered high-risk.",
+    "answer": "Biometrics",
+    "coverage": "Annex-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Annex III",
+    "answer_span": ["Biometrics"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "How does Annex III’s classification of biometric identification compare with GDPR’s special category data?",
+    "answer": "Annex III lists ‘biometric identification systems’ as high-risk AI; GDPR classifies biometric data as special category data requiring extra protections (Art. 9). Both underscore sensitivity and need for strict controls.",
+    "coverage": "Annex-level",
+    "complexity": "Two-hop",
+    "answer_length": "long",
+    "sources": "AI Act Annex III; GDPR Article 9",
+    "answer_span": ["Annex III", "Article 9"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "A bank uses facial recognition for ATM access. What do Annex III and GDPR Article 9 require?",
+    "answer": "Annex III requires a high-risk conformity assessment for the facial recognition system; GDPR Article 9 requires explicit consent and processing safeguards for biometric data.",
+    "coverage": "Annex-level",
+    "complexity": "Scenario-driven",
+    "answer_length": "long",
+    "sources": "AI Act Annex III; GDPR Article 9",
+    "answer_span": ["Annex III", "Article 9"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "Which GDPR article defines the right to human oversight applicable under the AI Act?",
+    "answer": "GDPR Article 22",
+    "coverage": "Cross-document",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "GDPR Article 22",
+    "answer_span": ["Article 22"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "How do AI Act transparency rules (Article 13) and GDPR data subject rights (Article 15) complement each other?",
+    "answer": "Article 13 mandates disclosure of AI system capabilities; Article 15 gives data subjects access to personal data. Together, they ensure users understand AI decisions and can review underlying data.",
+    "coverage": "Cross-document",
+    "complexity": "Two-hop",
+    "answer_length": "long",
+    "sources": "AI Act Article 13; GDPR Article 15",
+    "answer_span": ["Article 13", "Article 15"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "An e-commerce site uses AI pricing. Under Article 13 and GDPR rights, what must be provided to users?",
+    "answer": "Per Article 13, explain pricing logic and intended use; per GDPR Article 15, allow users to access their personal data used by the AI for pricing.",
+    "coverage": "Cross-document",
+    "complexity": "Scenario-driven",
+    "answer_length": "long",
+    "sources": "AI Act Article 13; GDPR Article 15",
+    "answer_span": ["Article 13", "Article 15"],
+    "main_document": "AI Act and GDPR"
+  },
+  {
+    "question": "What is the definition of an 'AI system' according to the AI Act?",
+    "answer": "‘AI system’ means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;",
+    "coverage": "Definition-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Article 3(1)",
+    "answer_span": [
+      "machine-based system that is designed to operate with varying levels of autonomy"
+    ],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "Which Article prohibits placing on the market biometric categorisation systems unless strictly necessary?",
+    "answer": "Article 5",
+    "coverage": "Article-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Article 5",
+    "answer_span": ["Article 5"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "Which are the different type of AI systems discussed in article 5 and article 6 of the AI Act?",
+    "answer": "Article 5 of the AI Act prohibits AI systems that pose an unacceptable risk to fundamental rights and EU values. Article 6 outlines the criteria for classifying AI systems as High-Risk",
+    "coverage": "Article-level",
+    "complexity": "Two-hop",
+    "answer_length": "long",
+    "sources": "Articles 5, 6",
+    "answer_span": ["Article 5", "Article 6"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "In which article are described the Data Governance requirements for an AI system used to managed the access to essential private services",
+    "answer": "Article 10",
+    "coverage": "Recital-level, Annex-level",
+    "complexity": "Two-hop",
+    "answer_length": "short",
+    "sources": "Annex III, recitals, Article 10",
+    "answer_span": ["Article 10"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "A startup develops an emotion recognition AI. Which section should I check in order to be compliance with the requirements of the AI Act?",
+    "answer": "Section 2",
+    "coverage": "Recital-level",
+    "complexity": "Scenario-driven",
+    "answer_length": "short",
+    "sources": "Recital 14",
+    "answer_span": ["Section 2"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "Name one application listed in article 5 as prohibited AI practice.",
+    "answer": "subliminal techniques.",
+    "coverage": "Annex-level",
+    "complexity": "Single-hop",
+    "answer_length": "short",
+    "sources": "Article 5",
+    "answer_span": ["subliminal techniques"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "Which article and which annex describe the technical documentation requirements for high-risk AI systems?",
+    "answer": "Artcile 11 and Annex IV",
+    "coverage": "Annex-level, Article-level",
+    "complexity": "Two-hop",
+    "answer_length": "long",
+    "sources": "Article 11; Annex IV",
+    "answer_span": ["Article 11", "Annex IV"],
+    "main_document": "AI Act"
+  },
+  {
+    "question": "A developer wants to integrate a language model in a medical app. Which Annex risk should he checks to verify if that AI system shall be considered to be high-risk?",
+    "answer": "Language models for medical diagnosis fall under Annex III high-risk.",
+    "coverage": "Annex-level",
+    "complexity": "Scenario-driven",
+    "answer_length": "long",
+    "sources": "Annex III",
+    "answer_span": ["Annex III"],
+    "main_document": "AI Act"
+  }
+]

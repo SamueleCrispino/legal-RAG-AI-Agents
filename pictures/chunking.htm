@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pipeline RAG con AI Agents</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            padding: 25px;
+            max-width: 750px; /* Adjusted max-width for compactness */
+            width: 100%;
+        }
+        .flow-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px; /* Reduced gap */
+        }
+        .step-box {
+            background-color: #e0f2fe;
+            border: 1px solid #90cdf4;
+            border-radius: 8px;
+            padding: 10px 15px;
+            font-weight: 600;
+            color: #2c5282;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            min-width: 180px;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        .step-box span.icon {
+            font-size: 1.5em;
+        }
+        .arrow {
+            width: 2px;
+            background-color: #4299e1;
+            height: 20px; /* Reduced height */
+            position: relative;
+        }
+        .arrow::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: -4px;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 8px solid #4299e1;
+        }
+
+        /* Specific styles for branching/merging */
+        .parallel-retrieval {
+            display: flex;
+            justify-content: space-around;
+            width: 100%;
+            gap: 15px; /* Reduced gap */
+        }
+        .index-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+            background-color: #d1fae5;
+            border: 1px solid #6ee7b7;
+            border-radius: 8px;
+            padding: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            flex: 1; /* Distribute space evenly */
+        }
+        .index-item span.icon {
+            font-size: 1.8em;
+        }
+        .index-label {
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: #065f46;
+        }
+        .chunks-list-icon {
+            font-size: 1.8em;
+            color: #2c5282;
+            margin-top: 5px;
+        }
+
+        .decision-box {
+            background-color: #fefcbf;
+            border: 1px solid #f6e05e;
+            border-radius: 8px; /* Square shape with rounded corners */
+            transform: rotate(45deg); /* Diamond shape */
+            width: 70px; /* Increased size */
+            height: 70px; /* Increased size */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            position: relative;
+        }
+        .decision-box span {
+            transform: rotate(-45deg); /* Rotate icon back */
+            font-size: 1.6em; /* Slightly smaller icon */
+            color: #744210;
+        }
+        .decision-label {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(-45deg);
+            font-size: 0.7rem; /* Slightly smaller font for label */
+            font-weight: 600;
+            color: #744210;
+            white-space: nowrap; /* Prevent text wrapping */
+        }
+
+        .fallback-options {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .fallback-option {
+            background-color: #ffe0b2;
+            border: 1px solid #ffb74d;
+            border-radius: 6px;
+            padding: 5px 10px;
+            font-size: 0.8rem;
+            color: #e65100;
+            font-weight: 500;
+        }
+
+        /* Absolute positioning for complex arrows */
+        .line-connector {
+            position: absolute;
+            background-color: #4299e1;
+            z-index: 0;
+        }
+        .line-connector.vertical {
+            width: 2px;
+        }
+        .line-connector.horizontal {
+            height: 2px;
+        }
+        .line-connector.arrow-tip::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: -4px;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 8px solid #4299e1;
+        }
+        .line-connector.arrow-tip.right::after {
+            right: -8px;
+            top: 50%;
+            transform: translateY(-50%);
+            border-top: 5px solid transparent;
+            border-bottom: 5px solid transparent;
+            border-left: 8px solid #4299e1;
+        }
+        .line-connector.arrow-tip.left::after {
+            left: -8px;
+            top: 50%;
+            transform: translateY(-50%);
+            border-top: 5px solid transparent;
+            border-bottom: 5px solid transparent;
+            border-right: 8px solid #4299e1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="text-2xl font-bold text-center text-gray-800 mb-6">Pipeline RAG con AI Agents</h2>
+
+        <div class="flow-container">
+            <!-- 1) Query Utente -->
+            <div class="step-box">
+                <span class="icon">👤</span> Query Utente
+            </div>
+            <div class="arrow"></div>
+
+            <!-- 2) Choose-Subject -->
+            <div class="step-box">
+                <span class="icon">🎯</span> Choose Subject
+            </div>
+            <div class="arrow" id="arrow-to-retrieval"></div>
+
+            <!-- 3) Interrogazione Index Specifica -->
+            <div class="step-box" style="min-width: 250px;">
+                <span class="icon">📚</span> Retrieval Parallelo
+            </div>
+            <div class="parallel-retrieval">
+                <div class="index-item" id="index-doc1">
+                    <span class="icon">📁</span> Index/Documento 1
+                    <div class="chunks-list-icon">📄📄📄</div>
+                </div>
+                <div class="index-item" id="index-doc2">
+                    <span class="icon">📁</span> Index/Documento 2
+                    <div class="chunks-list-icon">📄📄📄</div>
+                </div>
+            </div>
+
+            <!-- 4) Fusione Classifiche -->
+            <div class="arrow" id="arrow-from-indexes"></div>
+            <div class="step-box">
+                <span class="icon">🤝</span> Fusione Classifiche
+            </div>
+            <div class="arrow"></div>
+
+            <!-- 5) Generazione Risposta LLM -->
+            <div class="step-box" id="llm-generation-box">
+                <span class="icon">🤖</span> Generazione Risposta LLM
+            </div>
+            <div class="arrow" id="arrow-to-evaluator"></div>
+
+            <!-- 6) Agent Evaluator & Decision -->
+            <div class="step-box" id="evaluator-agent-box">
+                <span class="icon">🕵️‍♀️</span> Agent Evaluator
+                <span class="icon">📝</span> Report
+            </div>
+            <div class="decision-box" id="score-decision-box">
+                <span>❓</span>
+                <div class="decision-label">Score < 4?</div>
+            </div>
+
+            <!-- Fallback Path -->
+            <div class="arrow" id="arrow-from-evaluator-to-decision"></div>
+            <div class="arrow" id="arrow-yes-to-fallback"></div>
+            <div class="step-box" id="fallback-box">
+                <span class="icon">🔄</span> Fallback
+                <div class="fallback-options">
+                    <span class="fallback-option">Hyde 💡</span>
+                    <span class="fallback-option">IRCoT 🧠</span>
+                </div>
+            </div>
+
+            <!-- Loop back to LLM Generation -->
+            <div class="arrow" id="arrow-fallback-to-llm"></div>
+
+            <!-- 8) Comparazione Report & Output Finale -->
+            <div class="arrow" id="arrow-no-to-comparison"></div>
+            <div class="step-box" id="comparison-box">
+                <span class="icon">⚖️</span> Comparazione Report
+            </div>
+            <div class="arrow"></div>
+            <div class="step-box">
+                <span class="icon">✅</span> Risposta Finale
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const llmGenerationBox = document.getElementById('llm-generation-box');
+            const evaluatorAgentBox = document.getElementById('evaluator-agent-box');
+            const scoreDecisionBox = document.getElementById('score-decision-box');
+            const fallbackBox = document.getElementById('fallback-box');
+            const comparisonBox = document.getElementById('comparison-box');
+
+            // Connect Retrieval Parallel to two Index/Document boxes
+            const retrievalParallelBox = document.querySelector('.step-box:nth-child(5)');
+            const indexDoc1 = document.getElementById('index-doc1');
+            const indexDoc2 = document.getElementById('index-doc2');
+
+            const retrievalRect = retrievalParallelBox.getBoundingClientRect();
+            const index1Rect = indexDoc1.getBoundingClientRect();
+            const index2Rect = indexDoc2.getBoundingClientRect();
+
+            // Arrow from Retrieval Parallel to Index/Document 1
+            const line1 = document.createElement('div');
+            line1.className = 'line-connector vertical arrow-tip down';
+            line1.style.left = `${index1Rect.left + index1Rect.width / 2}px`;
+            line1.style.top = `${retrievalRect.bottom}px`;
+            line1.style.height = `${index1Rect.top - retrievalRect.bottom}px`;
+            document.body.appendChild(line1);
+
+            // Arrow from Retrieval Parallel to Index/Document 2
+            const line2 = document.createElement('div');
+            line2.className = 'line-connector vertical arrow-tip down';
+            line2.style.left = `${index2Rect.left + index2Rect.width / 2}px`;
+            line2.style.top = `${retrievalRect.bottom}px`;
+            line2.style.height = `${index2Rect.top - retrievalRect.bottom}px`;
+            document.body.appendChild(line2);
+
+            // Arrow from Index/Document 1 to Fusione Classifiche
+            const fusionBox = document.querySelector('.step-box:nth-child(7)');
+            const fusionRect = fusionBox.getBoundingClientRect();
+
+            const line3 = document.createElement('div');
+            line3.className = 'line-connector vertical arrow-tip down';
+            line3.style.left = `${index1Rect.left + index1Rect.width / 2}px`;
+            line3.style.top = `${index1Rect.bottom}px`;
+            line3.style.height = `${fusionRect.top - index1Rect.bottom}px`;
+            document.body.appendChild(line3);
+
+            // Arrow from Index/Document 2 to Fusione Classifiche
+            const line4 = document.createElement('div');
+            line4.className = 'line-connector vertical arrow-tip down';
+            line4.style.left = `${index2Rect.left + index2Rect.width / 2}px`;
+            line4.style.top = `${index2Rect.bottom}px`;
+            line4.style.height = `${fusionRect.top - index2Rect.bottom}px`;
+            document.body.appendChild(line4);
+
+            // Arrow from LLM Generation to Evaluator Agent
+            const llmRect = llmGenerationBox.getBoundingClientRect();
+            const evaluatorRect = evaluatorAgentBox.getBoundingClientRect();
+            const arrowToEvaluator = document.getElementById('arrow-to-evaluator');
+            arrowToEvaluator.style.left = `${evaluatorRect.left + evaluatorRect.width / 2}px`;
+
+            // Arrow from Evaluator Agent to Decision Box
+            const arrowToDecision = document.getElementById('arrow-from-evaluator-to-decision');
+            arrowToDecision.style.left = `${scoreDecisionBox.getBoundingClientRect().left + scoreDecisionBox.offsetWidth / 2}px`;
+
+            // Arrow for YES path to Fallback
+            const arrowYesToFallback = document.getElementById('arrow-yes-to-fallback');
+            const decisionRect = scoreDecisionBox.getBoundingClientRect();
+            const fallbackRect = fallbackBox.getBoundingClientRect();
+
+            const yesLineX = decisionRect.left + decisionRect.width / 2 - decisionRect.width / 4; /* Left side of diamond */
+            const yesLineY = decisionRect.bottom;
+
+            const fallbackLineX = fallbackRect.left + fallbackRect.width / 2;
+            const fallbackLineY = fallbackRect.top;
+
+            const lineYesPath1 = document.createElement('div');
+            lineYesPath1.className = 'line-connector vertical';
+            lineYesPath1.style.left = `${yesLineX}px`;
+            lineYesPath1.style.top = `${yesLineY}px`;
+            lineYesPath1.style.height = `${fallbackLineY - yesLineY - 10}px`; /* Vertical segment */
+            document.body.appendChild(lineYesPath1);
+
+            const lineYesPath2 = document.createElement('div');
+            lineYesPath2.className = 'line-connector horizontal arrow-tip right';
+            lineYesPath2.style.left = `${yesLineX}px`;
+            lineYesPath2.style.top = `${fallbackLineY - 10}px`;
+            lineYesPath2.style.width = `${fallbackLineX - yesLineX}px`; /* Horizontal segment */
+            document.body.appendChild(lineYesPath2);
+
+            // Arrow from Fallback back to LLM Generation
+            const arrowFallbackToLlm = document.getElementById('arrow-fallback-to-llm');
+            const llmGenRect = llmGenerationBox.getBoundingClientRect();
+            const fallbackBoxRect = fallbackBox.getBoundingClientRect();
+
+            const startXFallback = fallbackBoxRect.left + fallbackBoxRect.width / 2;
+            const startYFallback = fallbackBoxRect.bottom;
+            const endXLLM = llmGenRect.left + llmGenRect.width / 2;
+            const endYLLM = llmGenRect.top;
+
+            const loopLine1 = document.createElement('div'); /* Vertical down from fallback */
+            loopLine1.className = 'line-connector vertical';
+            loopLine1.style.left = `${startXFallback}px`;
+            loopLine1.style.top = `${startYFallback}px`;
+            loopLine1.style.height = `30px`; /* arbitrary length down */
+            document.body.appendChild(loopLine1);
+
+            const loopLine2 = document.createElement('div'); /* Horizontal to left */
+            loopLine2.className = 'line-connector horizontal';
+            loopLine2.style.left = `${endXLLM}px`;
+            loopLine2.style.top = `${startYFallback + 30}px`;
+            loopLine2.style.width = `${startXFallback - endXLLM}px`;
+            document.body.appendChild(loopLine2);
+
+            const loopLine3 = document.createElement('div'); /* Vertical up to LLM */
+            loopLine3.className = 'line-connector vertical arrow-tip down'; /* Arrow points up */
+            loopLine3.style.left = `${endXLLM}px`;
+            loopLine3.style.top = `${endYLLM}px`;
+            loopLine3.style.height = `${(startYFallback + 30) - endYLLM}px`;
+            document.body.appendChild(loopLine3);
+
+            // Arrow for NO path to Comparison
+            const arrowNoToComparison = document.getElementById('arrow-no-to-comparison');
+            const comparisonRect = comparisonBox.getBoundingClientRect();
+
+            const noLineX = decisionRect.left + decisionRect.width / 2 + decisionRect.width / 4; /* Right side of diamond */
+            const noLineY = decisionRect.bottom;
+
+            const comparisonLineX = comparisonRect.left + comparisonRect.width / 2;
+            const comparisonLineY = comparisonRect.top;
+
+            const lineNoPath1 = document.createElement('div'); /* Vertical down from decision */
+            lineNoPath1.className = 'line-connector vertical';
+            lineNoPath1.style.left = `${noLineX}px`;
+            lineNoPath1.style.top = `${noLineY}px`;
+            lineNoPath1.style.height = `${comparisonLineY - noLineY - 10}px`;
+            document.body.appendChild(lineNoPath1);
+
+            const lineNoPath2 = document.createElement('div'); /* Horizontal to comparison */
+            lineNoPath2.className = 'line-connector horizontal arrow-tip left'; /* Arrow points left */
+            lineNoPath2.style.left = `${comparisonLineX}px`;
+            lineNoPath2.style.top = `${comparisonLineY - 10}px`;
+            lineNoPath2.style.width = `${noLineX - comparisonLineX}px`;
+            document.body.appendChild(lineNoPath2);
+
+            // Arrow from Evaluator Agent to Comparison (for initial report)
+            const evaluatorToComparisonLine = document.createElement('div');
+            evaluatorToComparisonLine.className = 'line-connector horizontal arrow-tip right';
+            evaluatorToComparisonLine.style.left = `${evaluatorRect.right}px`;
+            evaluatorToComparisonLine.style.top = `${evaluatorRect.top + evaluatorRect.height / 2}px`;
+            evaluatorToComparisonLine.style.width = `${comparisonRect.left - evaluatorRect.right - 10}px`; /* Gap */
+            document.body.appendChild(evaluatorToComparisonLine);
+        });
+    </script>
+</body>
+</html>

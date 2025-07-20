@@ -1,0 +1,3056 @@
+[
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_0",
+    "text": "A R T I C L E\nA Robust Governance for the AI Act: AI Office,\nAI Board, Scientific Panel, and National Authorities\nClaudio Novelli1\n, Philipp Hacker2, Jessica Morley3, Jarle Trondal4,5,6 and Luciano Floridi3,1\n1Department of Legal Studies, University of Bologna, Bologna, IT, USA, 2European New School\nof Digital Studies, European University Viadrina, Frankfurt (Oder), Germany, 3Digital Ethics Center,\nYale University, New Haven, CT, USA, 4Department of Political Science and Management, University\nof Agder, Kristiansand, Norway, 5ARENA Centre for European Studies, University of Oslo, Oslo,\nNorway and 6Institute of European Studies, University of California, Berkeley, CA, USA\nCorresponding author: Claudio Novelli; Email: claudio.novelli@unibo.it\nAbstract\nRegulation is nothing without enforcement.",
+    "source": "semantic",
+    "offset": 0
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_1",
+    "text": "This particularly holds for the dynamic field of emerging\ntechnologies.",
+    "source": "semantic",
+    "offset": 1
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_2",
+    "text": "Hence, this article has two ambitions.",
+    "source": "semantic",
+    "offset": 2
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_3",
+    "text": "First, it explains how the EU’s new Artificial\nIntelligence Act (AIA) may be implemented and enforced by various institutional bodies, thus\nclarifying the governance framework of the AIA.",
+    "source": "semantic",
+    "offset": 3
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_4",
+    "text": "Second, it proposes a normative governance model,\nproviding recommendations to ensure uniform and coordinated execution of the AIA and the\nfulfillment of the legislation.",
+    "source": "semantic",
+    "offset": 4
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_5",
+    "text": "The article explores how the AIA may be implemented by national and\nEU institutional bodies, encompassing longstanding bodies, such as the European Commission, and\nthose newly established under the AIA, such as the AI Office.",
+    "source": "semantic",
+    "offset": 5
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_6",
+    "text": "It investigates their roles across\nsupranational and national levels, emphasising how EU regulations influence institutional structures\nand operations.",
+    "source": "semantic",
+    "offset": 6
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_7",
+    "text": "These regulations may not only directly dictate the structural design of institutions\nbut also indirectly request administrative capacities needed to enforce the AIA.",
+    "source": "semantic",
+    "offset": 7
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_8",
+    "text": "Keywords: AI Act; AI Office; EU governance\nI. Introduction\nThe effective implementation of the Artificial Intelligence Act (AIA) throughout the\nEuropean Union (EU) depends on a uniform, coordinated, and well-funded governance\nsetting.1 This is especially important given the increasing need for harmonised regulatory\napplication in the digital sector, as emphasised by EU policymakers due to the numerous\nlaws already enacted.2 For this purpose, the AIA, notably in Chapter VII (‘Governance’),\nunderscores the role of different institutional bodies, supranational and national, such as\nthe AI Office, the European AI Board, the Advisory Forum, the Scientific Panel, and\n(two) national competent authorities in each Member State.",
+    "source": "semantic",
+    "offset": 8
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_9",
+    "text": "Close coordination between\nthese bodies is crucial for implementing and enforcing the AIA’s rules across all Member\nCN’s contributions were supported by funding provided by Intesa Sanpaolo to the University of Bologna.",
+    "source": "semantic",
+    "offset": 9
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_10",
+    "text": "© The Author(s), 2024.",
+    "source": "semantic",
+    "offset": 10
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_11",
+    "text": "Published by Cambridge University Press.",
+    "source": "semantic",
+    "offset": 11
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_12",
+    "text": "This is an Open Access article, distributed under the terms of the\nCreative Commons Attribution-ShareAlike licence (https://creativecommons.org/licenses/by-sa/4.0/), which permits re-use,\ndistribution, and reproduction in any medium, provided the same Creative Commons licence is used to distribute the re-used or\nadapted article and the original article is properly cited.",
+    "source": "semantic",
+    "offset": 12
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_13",
+    "text": "1 This is explicitly stated by the AIA at Recital 148.",
+    "source": "semantic",
+    "offset": 13
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_14",
+    "text": "2 J Tar, “Implementing Tech Rulebooks Should Be Top Digital Policy Priority, EU Countries Urge” <https://\nwww.euractiv.com/section/digital/news/implementing-tech-rulebooks-should-be-top-digital-policy-priority-eu-\ncountries-urge/> (accessed 25 March 2024).",
+    "source": "semantic",
+    "offset": 14
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_15",
+    "text": "European Journal of Risk Regulation (2024), 1–25\ndoi:10.1017/err.2024.57\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nStates.",
+    "source": "semantic",
+    "offset": 15
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_16",
+    "text": "This interaction should also guarantee compatibility with other EU regulations to\navoid redundancy and antinomies.",
+    "source": "semantic",
+    "offset": 16
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_17",
+    "text": "This article explores how the AIA may be implemented by the EU institutional bodies,\nencompassing longstanding bodies, such as the European Commission (Commission), and\nthose newly established under the AIA, such as the AI Office.",
+    "source": "semantic",
+    "offset": 17
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_18",
+    "text": "It investigates their roles\nacross supranational and national levels, emphasising how EU regulations influence\ninstitutional structures and operations.",
+    "source": "semantic",
+    "offset": 18
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_19",
+    "text": "These regulations may not only directly dictate the\nstructural design of institutions but also indirectly request administrative capacities needed\nto enforce the AIA.3\nThese deliberations share an important dynamic aspect: bodies enforcing the AIA will\noversee activities in various sectors due to the rapidly expanding reach of AI into all\nproducts and services.",
+    "source": "semantic",
+    "offset": 19
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_20",
+    "text": "Interconnections with the enforcement of other recent EU\nlegislations and the digital industry, such as the Digital Services Act (DSA), are bound to\narise.",
+    "source": "semantic",
+    "offset": 20
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_21",
+    "text": "Hence, at the EU and the national level, AIA enforcement bodies, such as the AI Office\nand specific national regulators, may ultimately be considered the nucleus of more\nencompassing “digital agencies,” bundling competencies and expertise across various\ndigital instruments.",
+    "source": "semantic",
+    "offset": 21
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_22",
+    "text": "This raises the stakes of designing these entities wisely.",
+    "source": "semantic",
+    "offset": 22
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_23",
+    "text": "Despite existing research on how EU regulatory governance influences national\ngovernance processes, we know little about how EU policy regulations shape states’\nenforcement infrastructures – that is, the organisational design of public administration.4\nTo explore this, we will delve into the institutional design of these bodies, which includes\nthe structure, competence, (division of) tasks, funding, and allocation of responsibilities.",
+    "source": "semantic",
+    "offset": 23
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_24",
+    "text": "The normative framework is becoming more established, especially after the\nconsolidation of the AIA, but there remains scope for additional adjustments in\nthe phase of implementing and delegated acts.",
+    "source": "semantic",
+    "offset": 24
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_25",
+    "text": "The implementation stage enables the\nCommission and, on rare occasions, the Council of the European Union to fine-tune\nnon-essential aspects of the legislation.",
+    "source": "semantic",
+    "offset": 25
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_26",
+    "text": "Experts nominated by each Member State are\nconsulted before adopting these acts.",
+    "source": "semantic",
+    "offset": 26
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_27",
+    "text": "Against this background, this article has two ambitions.",
+    "source": "semantic",
+    "offset": 27
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_28",
+    "text": "First, it explains how the\nAIA may be implemented and enforced by supranational and national bodies, thus\nilluminating the governance framework of the AIA. Second, it proposes a normative\ngovernance model, providing recommendations to ensure uniform and coordinated\nexecution of the AIA and the fulfillment of the legislation.",
+    "source": "semantic",
+    "offset": 28
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_29",
+    "text": "The awareness informs these\nrecommendations of the uncertainties surrounding the future development of AI\ntechnologies and their social impacts.",
+    "source": "semantic",
+    "offset": 29
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_30",
+    "text": "This perspective leads us to endorse a model of\ngovernance characterised by its robustness.",
+    "source": "semantic",
+    "offset": 30
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_31",
+    "text": "Robustness, in this sense, implies the ability to\nuphold core functions, purposes, and values and maintain critical structural or operational\narchitectures in the face of disruptive perturbations through adaptation and innovation.5\n3 Government structuring is a national prerogative, coined as national “administrative sovereignty” in extant\nliterature.",
+    "source": "semantic",
+    "offset": 31
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_32",
+    "text": "The latter is understood as the legal right of final decision on the structuring of government and\nthe “assertion of control over recognisable administrative mechanisms of a government separate from the\ncomprehensive operation of a nation” in K Muth, “The Potential and Limits of Administrative Sovereignty”, The\nOxford Handbook of Global Policy and Transnational Administration (Oxford Academic 2019) 60 <https://academic.oup.",
+    "source": "semantic",
+    "offset": 32
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_33",
+    "text": "com/edited-volume/28088/chapter/212140358> (accessed 17 April 2024).",
+    "source": "semantic",
+    "offset": 33
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_34",
+    "text": "4 A Benz, J Broschek and M Lederer (eds), A Research Agenda for Multilevel Governance (Elgar 2021) <https://\nwww.e-elgar.com/shop/gbp/a-research-agenda-for-multilevel-governance-9781789908367.html> (accessed 17\nApril 2024); M Egeberg and J Trondal, “Researching European Union Agencies: What Have We Learnt (and\nWhere Do We Go from Here)?” (2017) 55 JCMS: Journal of Common Market Studies 675; Muth (n 4).",
+    "source": "semantic",
+    "offset": 34
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_35",
+    "text": "5 C Ansell and others, “Robust Governance in Turbulent Times” (2024) Elements in Public Policy <https://www. cambridge.org/core/elements/robust-governance-in-turbulent-times/AB44DBE9AA636390EC114E8A428BF188> (accessed\n21 March 2024).",
+    "source": "semantic",
+    "offset": 35
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_36",
+    "text": "2\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 36
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_37",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nThe article is structured as follows.",
+    "source": "semantic",
+    "offset": 37
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_38",
+    "text": "Section II discusses general considerations for the\ndesign of agencies and bodies tasked with AI legislative enforcement and supervision.",
+    "source": "semantic",
+    "offset": 38
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_39",
+    "text": "Section III reviews the critical components for implementing the AIA, focusing on the\nCommission’s implementing and delegated acts.",
+    "source": "semantic",
+    "offset": 39
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_40",
+    "text": "Section IV examines the supranational\nentities overseeing the AIA, including the AI Office, the AI Board, the Advisory Forum, and\nthe Scientific Panel, proposing measures to streamline the governance framework to\neliminate redundancies.",
+    "source": "semantic",
+    "offset": 40
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_41",
+    "text": "Section V analyses national authorities’ roles – highlighting\nnotifying authorities, notified bodies, and market surveillance authorities.",
+    "source": "semantic",
+    "offset": 41
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_42",
+    "text": "Section VI\noffers a set of recommendations derived from the analysis performed.",
+    "source": "semantic",
+    "offset": 42
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_43",
+    "text": "The conclusion is\npresented in Section VII.",
+    "source": "semantic",
+    "offset": 43
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_44",
+    "text": "II.",
+    "source": "semantic",
+    "offset": 44
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_45",
+    "text": "General considerations: designing robust governance for the AIA\nThis section discusses the potential goals, structures, interdependencies, and challenges of\nestablishing a multilevel governance framework for AI in the EU and Member States.",
+    "source": "semantic",
+    "offset": 45
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_46",
+    "text": "II.1.",
+    "source": "semantic",
+    "offset": 46
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_47",
+    "text": "EU level\nAt least three institutional design options are available at the EU level to establish\nexecutive capacities for regulating and enforcing AI.",
+    "source": "semantic",
+    "offset": 47
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_48",
+    "text": "Option 1 suggests a centralised institutional design to incorporate tasks related to\nAI regulations within the remit of the Commission – notably within its departments, i.e., its\nDirectorates-General (DG).",
+    "source": "semantic",
+    "offset": 48
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_49",
+    "text": "Such an approach could involve establishing a new DG (or a new\nunit within it) or reforming an existing one by increasing its policy portfolio to\nincorporate AI (e.g., Connect A responsible for Artificial Intelligence and Digital Industry).",
+    "source": "semantic",
+    "offset": 49
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_50",
+    "text": "Implementing this structure would enhance the Commission’s ultimate control, oversight,\nand management of AI policy regulation and enforcement activities.",
+    "source": "semantic",
+    "offset": 50
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_51",
+    "text": "Option 2 is a decentralised institutional design incorporating AI-related tasks in EU-level\nagencies.",
+    "source": "semantic",
+    "offset": 51
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_52",
+    "text": "Similar to the Commission, this could involve either establishing a new AI agency\nat arm’s length from the Commission or a reformed EU agency incorporating AI tasks in its\ntask portfolio.",
+    "source": "semantic",
+    "offset": 52
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_53",
+    "text": "Option 2 would thus leave the Commission with less control, oversight, and\nday-to-day management.",
+    "source": "semantic",
+    "offset": 53
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_54",
+    "text": "Option 3 implements a hybrid institutional design with AI-related tasks established\nwithin the Commission in a designated DG, with one or several EU-level agencies\ngoverning at arm’s length from the Commission DG and working closely with other\nrelevant DGs.",
+    "source": "semantic",
+    "offset": 54
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_55",
+    "text": "Existing literature suggests that most decentralised EU-level agencies keep\nstrong ties to what they consider their corresponding or “parent” DG.6 We consider\nthis the option most likely to result in suitably robust AI governance as it balances the\nstrengths and weaknesses of the other two options.",
+    "source": "semantic",
+    "offset": 55
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_56",
+    "text": "II.2.",
+    "source": "semantic",
+    "offset": 56
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_57",
+    "text": "Member state level\nEstablishing national agencies responsible\nfor enforcing AI regulations,\ntwo of\nwhich the AIA has already introduced, presents three institutional design options for\nconsideration. Option 1 would establish a new national agency dedicated to AI regulation enforcement.",
+    "source": "semantic",
+    "offset": 57
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_58",
+    "text": "Its main benefit is creating a centralised body designed explicitly for AI oversight,\nattracting personnel with skills tailored to AI’s distinct requirements.",
+    "source": "semantic",
+    "offset": 58
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_59",
+    "text": "However, it may lack\nindustry-specific expertise and risk detachment from the intricacies of different sectors.",
+    "source": "semantic",
+    "offset": 59
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_60",
+    "text": "6 Egeberg and Trondal (n 5).",
+    "source": "semantic",
+    "offset": 60
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_61",
+    "text": "European Journal of Risk Regulation\n3\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nMoreover, the urgency of the AIA’s application, with the first four editions effective from\nthe end of 2024, makes the typically lengthy process of legally and institutionally\nestablishing a new agency a significant drawback.",
+    "source": "semantic",
+    "offset": 61
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_62",
+    "text": "Option 2 would simply assign the AIA’s enforcement to an existing agency.",
+    "source": "semantic",
+    "offset": 62
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_63",
+    "text": "It capitalises\non the existing organisational framework and sectoral knowledge.",
+    "source": "semantic",
+    "offset": 63
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_64",
+    "text": "For instance, the\nbanking sector has utilised machine learning models for decades,7 and banking authorities\nhave significant experience in testing and supervising these models, at least since the 2008\nfinancial crisis and the accompanying overhaul of the EU financial services and banking\nregulation.8 However, this could lead to disputes over mandate allocation and potentially\nnarrow the focus to specific sectors, ignoring the AI Act’s broad applicability.",
+    "source": "semantic",
+    "offset": 64
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_65",
+    "text": "Option 3 would merge centralised expertise with sectoral insights by establishing a new\n“competence center”9 within an existing authority with AI experience, such as a banking\nor network regulator.",
+    "source": "semantic",
+    "offset": 65
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_66",
+    "text": "The competence center would temporarily or permanently bring\ntogether AI experts from different backgrounds to form interdisciplinary teams (e.g., legal\nexperts and computer scientists) on specific cases.",
+    "source": "semantic",
+    "offset": 66
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_67",
+    "text": "This approach aims to integrate\ncomprehensive AI knowledge with in-depth sectoral understanding despite potential\nrecruitment challenges, particularly for technical positions.",
+    "source": "semantic",
+    "offset": 67
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_68",
+    "text": "As the implementation of the AIA at the State Member level is ongoing, the choice\namong the proposed options remains uncertain.",
+    "source": "semantic",
+    "offset": 68
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_69",
+    "text": "Nonetheless, it is possible to speculate on\nthe effectiveness of these options.",
+    "source": "semantic",
+    "offset": 69
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_70",
+    "text": "Using Germany as an illustrative example, Options 2 and\n3 are more robust than Option 1.",
+    "source": "semantic",
+    "offset": 70
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_71",
+    "text": "Political dynamics and the convenience of existing\nframeworks may lead decision-makers to favor Option 2.",
+    "source": "semantic",
+    "offset": 71
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_72",
+    "text": "Key agencies considered for AIA\noversight include the Federal Office for Information Security (BSI), the Federal Network\nAgency (BNetzA), and state data protection authorities, each with specific strengths and\nchallenges.",
+    "source": "semantic",
+    "offset": 72
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_73",
+    "text": "BSI’s technical expertise is valuable for identifying AI risks, though it may not\ncover all regulatory aspects.",
+    "source": "semantic",
+    "offset": 73
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_74",
+    "text": "BNetzA has a broad regulatory scope but could lack AI-specific\nexpertise.",
+    "source": "semantic",
+    "offset": 74
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_75",
+    "text": "State data protection authorities are well-versed in privacy issues but might not\nfully address AI’s broader impacts.",
+    "source": "semantic",
+    "offset": 75
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_76",
+    "text": "However, Option 3 promises a more balanced mix of\nagility, specialised knowledge, and sector-wide understanding.",
+    "source": "semantic",
+    "offset": 76
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_77",
+    "text": "Thus, an Option 3\ncompetence center, linked to the banking regulator (BaFin) or one of the other agencies\nmentioned (e.g., BNetzA), could offer the necessary flexibility and sectoral insight for\neffective AI regulation, leveraging BaFin’s experience in managing machine learning\nwithin financial oversight to meet the AI Act’s requirements, or BNetzA’s expertise in\ngoverning infrastructure and platforms (as the new national Digital Services Coordinator\nenforcing the Digital Services Act).",
+    "source": "semantic",
+    "offset": 77
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_78",
+    "text": "The effectiveness of these institutional designs may depend on the evolving framework\nat the EU level, which may ultimately determine what constitutes a robust institutional\ndesign at the national level.",
+    "source": "semantic",
+    "offset": 78
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_79",
+    "text": "II.3.",
+    "source": "semantic",
+    "offset": 79
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_80",
+    "text": "Multilevel: relationship between EU and national levels\nMultilevel\nadministrative\nsystems\nconsist\nof\nrelatively\nstable\narrangements\nof\nbureaucratic institutions and processes that span levels of government.",
+    "source": "semantic",
+    "offset": 80
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_81",
+    "text": "Yet, depending\non the chosen institutional designs, different multilevel governing relationships are likely\nto unfold across levels of governance.",
+    "source": "semantic",
+    "offset": 81
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_82",
+    "text": "Extant literature suggests multilevel governance\n7 E-I Dumitrescu and others, “Machine Learning or Econometrics for Credit Scoring: Let’s Get the Best of Both\nWorlds” (15 January 2021) <https://papers.ssrn.com/abstract=3553781> (accessed 26 March 2024).",
+    "source": "semantic",
+    "offset": 82
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_83",
+    "text": "8 K Langenbucher, ‘Responsible A.I.-Based Credit Scoring – A Legal Framework’ (2020) 31 European Business\nLaw\nReview\n<https://kluwerlawonline.com/api/Product/CitationPDFURL?file=Journals\\EULR\\EULR2020022.",
+    "source": "semantic",
+    "offset": 83
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_84",
+    "text": "pdf> (accessed 26 March 2024).",
+    "source": "semantic",
+    "offset": 84
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_85",
+    "text": "9 G Dimitropoulos and P Hacker, “Learning and the Law: Improving Behavioral Regulation from an\nInternational and Comparative Perspective” (2016) 25 Journal of Law and Policy 473.",
+    "source": "semantic",
+    "offset": 85
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_86",
+    "text": "4\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 86
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_87",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nprocesses are particularly affected and biased by two institutional conditions.",
+    "source": "semantic",
+    "offset": 87
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_88",
+    "text": "One is the\ndegree of administrative decentralisation – e.g., ‘agencification’10 – of national-level\ngovernment structures: the more task portfolios are hived off from ministries to agencies\nat the national level, the more likely it is that these agencies, in turn, establish governing\nrelationships with ‘their’ sister agencies at EU-level.",
+    "source": "semantic",
+    "offset": 88
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_89",
+    "text": "Hence, multilevel governing processes\nbetween agencies at both levels will likely emerge, leading to more uniform application\nand practice of EU regulations.",
+    "source": "semantic",
+    "offset": 89
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_90",
+    "text": "Second, the more administrative capacities are established\nat the EU level, the stronger the pull effect of EU-level administrative institutions on\ncorresponding national-level institutions.",
+    "source": "semantic",
+    "offset": 90
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_91",
+    "text": "One consequence is that government bureau-\ncrats may carry double-tasked roles in pursuing public governance.",
+    "source": "semantic",
+    "offset": 91
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_92",
+    "text": "Double-tasked\ngovernment officials personalise multilevel administrative systems by working within\nnational ministries and agencies while partaking in EU administrative networks and\ninteracting with the EU-level executive branch of government.11\nIII.",
+    "source": "semantic",
+    "offset": 92
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_93",
+    "text": "The AIA implementation and enforcement: the tasks of the Commission\nImplementing the AIA and its enforcement involves several non-legislative acts primarily\nunder the Commission’s authority according to the EU’s rules for implementing powers,\nthe so-called committee procedure12 (Recital 86 AIA).13 A notable initial step in this process\nwas the establishment of the AI Office, formalised by the Commission’s Decision on\n24 January 2024.",
+    "source": "semantic",
+    "offset": 93
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_94",
+    "text": "The remaining steps that must be taken by the Commission to implement\nand enforce the AIA are summarised in Table 1 and described in more detail subsequently.",
+    "source": "semantic",
+    "offset": 94
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_95",
+    "text": "III.1.",
+    "source": "semantic",
+    "offset": 95
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_96",
+    "text": "Procedures\nThe European Commission is required to engage with Member State experts and\nrepresentatives when adopting implementing and delegated acts to ensure the consistent\napplication and detailed implementation of EU laws.",
+    "source": "semantic",
+    "offset": 96
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_97",
+    "text": "Implementing acts aim to apply EU\nlaws consistently across Member States without altering the law (Article 291 TFEU).",
+    "source": "semantic",
+    "offset": 97
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_98",
+    "text": "In\ncontrast, delegated acts are designed to supplement or modify non-essential elements of\nlegislative acts, adding details needed for their implementation (Article 290 TFEU).",
+    "source": "semantic",
+    "offset": 98
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_99",
+    "text": "Implementing acts, governed by the comitology procedure, involve collaboration with a\ncommittee of Member State representatives.",
+    "source": "semantic",
+    "offset": 99
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_100",
+    "text": "Under the AIA, this engagement involves\nonly the European AI Board.",
+    "source": "semantic",
+    "offset": 100
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_101",
+    "text": "Delegated acts require consultation with Member State\nexperts but do not involve a formal committee.14 Delegated acts are subject to scrutiny by\nthe European Parliament and the Council, which have two months to raise objections;\notherwise, the Act is adopted.",
+    "source": "semantic",
+    "offset": 101
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_102",
+    "text": "The Commission’s powers under the AIA, including adopting\ndelegated acts, are granted for five years and can be silently renewed unless opposed by\nthe European Parliament (EP) and Council (Article 73 AIA).",
+    "source": "semantic",
+    "offset": 102
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_103",
+    "text": "The Commission must keep\nthe EP and Council informed about delegated acts and report on its activities within nine\nmonths, allowing for oversight and potential revocation of its powers.",
+    "source": "semantic",
+    "offset": 103
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_104",
+    "text": "Additionally, the\n10 An agency is an administrative body that is formally separated from a ministerial, or cabinet-level,\ndepartment and that carries out public tasks at a national level permanently, is staffed by public servants, is\nfinanced mainly by the state budget, and is subject to public legal procedures.",
+    "source": "semantic",
+    "offset": 104
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_105",
+    "text": "Agencies are supposed to enjoy\nsome autonomy from their respective ministerial departments about decision-making.",
+    "source": "semantic",
+    "offset": 105
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_106",
+    "text": "Over time, agencies tend\nto be moved out of and into ministerial departments, often cyclically (Bach and Jann 2010; Verhoest et al.",
+    "source": "semantic",
+    "offset": 106
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_107",
+    "text": "2012).",
+    "source": "semantic",
+    "offset": 107
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_108",
+    "text": "11 J Trondal, An Emergent European Executive Order (Oxford University Press 2010).",
+    "source": "semantic",
+    "offset": 108
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_109",
+    "text": "12 Regulation (EU) No 182/2011 dated 16 February 2011.",
+    "source": "semantic",
+    "offset": 109
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_110",
+    "text": "13 GJ Brandsma and J Blom-Hansen, Controlling the EU Executive?",
+    "source": "semantic",
+    "offset": 110
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_111",
+    "text": "The Politics of Delegation in the European Union\n(Oxford University Press 2017).",
+    "source": "semantic",
+    "offset": 111
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_112",
+    "text": "14 P Craig, Delegated and Implementing Acts (1st edn, Oxford University Press 2018) <https://ora.ox.ac.uk/obje\ncts/uuid:f8aa03ad-60c1-4415-b5b5-0863b005407d> (accessed 26 February 2024).",
+    "source": "semantic",
+    "offset": 112
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_113",
+    "text": "European Journal of Risk Regulation\n5\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nCommission is tasked with publishing guidelines and making binding decisions to\nimplement the AIA effectively.",
+    "source": "semantic",
+    "offset": 113
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_114",
+    "text": "The AI Office will support the adoption of implementing\nand delegated acts, while the AI Board focuses on implementing acts (see Section III).",
+    "source": "semantic",
+    "offset": 114
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_115",
+    "text": "III.2.",
+    "source": "semantic",
+    "offset": 115
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_116",
+    "text": "Guidelines operationalising the risk-based approach\nThe Commission develops guidelines and updates them to assist in implementing the AIA’s\nrisk-based approach, focusing on classifying high-risk AI systems (Article 6(5) AIA).",
+    "source": "semantic",
+    "offset": 116
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_117",
+    "text": "Additionally, the Commission uses delegated acts to update Annex III, either adding new\nhigh-risk AI use cases or removing ones that no longer pose significant risks, based on\ncriteria such as likelihood of use, autonomy, human oversight, and outcome reversibility,\nensuring that these adjustments do not compromise the EU’s health, safety, and rights\nstandards (Article 7 AIA).",
+    "source": "semantic",
+    "offset": 117
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_118",
+    "text": "Table 1.",
+    "source": "semantic",
+    "offset": 118
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_119",
+    "text": "Tasks and responsibilities of the Commission in implementing and enforcing the AIA\nKey aspects\nTasks and responsibilities of the Commission\na) Procedures\n- Establish and work with the AI Office and AI Board to develop\nimplementing and delegated acts\n- Conduct the comitology procedure with Member States for adopting and\nimplementing acts\n- Manage delegated act adoption, consulting experts, and undergoing\nscrutiny by EP and Council\nb) Guidelines\n- Issue guidelines on applying the definition of an AI system and\nclassification rules for high-risk systems\n- Create risk assessment methods for identifying and mitigating risks\n- Define rules for “significant modifications” that alter the risk level of a\nhigh-risk system\nc) Classification\n- Update Annex III to add or remove high-risk AI system use cases\nthrough delegated acts\n- Classify GPAI as exhibiting “systemic risk” based on criteria like FLOPs and\nhigh-impact capabilities\n- Adjust regulatory parameters (thresholds, benchmarks) for GPAI\nclassification through delegated acts\nd) Prohibited Systems\n- Develop guidelines on AI practices that are prohibited under Article 5\n(AIA)\n- Set standards and best practices to counter manipulative techniques and\nhazards\n- Define criteria for exceptions to prohibitions, e.g., for law enforcement\nuse of real-time remote biometric identification\ne) Harmonised standards and\nhigh-risk obligations\n- Define harmonised standards and obligations for high-risk system\nproviders, including in-door risk management system (Article 9 AIA)\n- Standardise technical documentation requirements and - update Annex IV\nvia delegated acts as necessary\n- Approve codes of practice (Article 56(6) AIA)\nf) Information and Transparency\n- Set information obligations for providers of high-risk systems\nthroughout the AI value chain\n- Issue guidance to ensure compliance with transparency requirements,\nespecially for GPAI\ng) Enforcement\n- Clarify the interplay between the AIA and other EU legislative\nframeworks\n- Regulate regulatory sandboxes and supervisory functions\n- Oversee Member State setting of penalties and enforcement measures\nthat are effective, proportionate, and deterrent\n6\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 119
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_120",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nConsidering the risk-based classification of AI systems, which potentially offers a robust\nregulatory approach by building in regulatory flexibility and applies to general-purpose AI\n(GPAI, also known as foundation models) albeit under a distinct terminology – namely, the\n‘high impact capabilities’ (Article 51(1) AIA) – these guidelines should also detail\nmethodologies for risk assessments.15\nSignificantly, within this framework, the Commission must define the rules about\n“significant modifications” that alter the risk level of a (high-risk) system once it has been\nintroduced to the market or put into use (Articles 25(1) and 3(23)).",
+    "source": "semantic",
+    "offset": 120
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_121",
+    "text": "These alterations, not\nanticipated or accounted for in the initial conformity assessment conducted by the provider,\nmay require the system to be reclassified (Article 96(1), AIA).",
+    "source": "semantic",
+    "offset": 121
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_122",
+    "text": "This involves specifying what\namounts to a significant change and outlining the procedures for performing a new\nconformity assessment (Article 43(4) AIA).",
+    "source": "semantic",
+    "offset": 122
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_123",
+    "text": "Importantly, delineating a significant modifica-\ntion must refer to the purpose of these sections of the AIA, specifically, hedging some specific\nrisks of AI systems in the light of fundamental rights.",
+    "source": "semantic",
+    "offset": 123
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_124",
+    "text": "Hence, only a noticeable, clear, and\nrelevant change to the system’s risks – such as discrimination, opacity, unforeseeability,\nprivacy, or the environment – can be a significant modification, in our view.",
+    "source": "semantic",
+    "offset": 124
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_125",
+    "text": "It follows that a\nstandard fine-tuning exercise of foundation models should not lead to a substantial\nmodification unless the process involves, explicitly, particularly biased data sets, the\nremoval of safety layers, or other actions clearly entailing novel or increased risks.16\nA complementary yet potentially synergistic approach is to adopt pre-determined\nchange management plans akin to those in medicine.17 These plans are comprehensive\ndocuments outlining anticipated modifications to an AI system – covering aspects like\nmodel performance adjustments, data inputs, and shifts in intended use – and the methods\nfor assessing such changes.",
+    "source": "semantic",
+    "offset": 125
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_126",
+    "text": "They might establish a proactive accountability methodology18\nfor identifying risks and devising mitigation strategies, ensuring modifications align with\nfundamental rights and AIA goals.",
+    "source": "semantic",
+    "offset": 126
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_127",
+    "text": "Regulators would evaluate these plans during the AI\ntechnology’s premarket assessment, allowing post-market changes to be efficiently\nimplemented according to the pre-approved plan.",
+    "source": "semantic",
+    "offset": 127
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_128",
+    "text": "Such change management plans do not\namount to a substantial modification in the sense of the AIA as they are not unforeseen or\nunplanned (Article 3(23), AIA).",
+    "source": "semantic",
+    "offset": 128
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_129",
+    "text": "Hence, they afford the distinct advantage of obviating the\nneed for reclassification and a new conformity assessment.",
+    "source": "semantic",
+    "offset": 129
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_130",
+    "text": "However, they cannot capture\ndynamic and spontaneous changes by developers or deployers.",
+    "source": "semantic",
+    "offset": 130
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_131",
+    "text": "III.3.",
+    "source": "semantic",
+    "offset": 131
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_132",
+    "text": "Classification of GPAI\nThe Commission has notable authority under the AIA to classify GPAI as exhibiting\n‘systemic risk’ (Article 51 AIA).19 This distinction, establishing the famous two-tiered\napproach to the regulation of GPAI,20 is crucial: only systemically risky GPAIs are subject to\nthe more far-reaching AI safety obligations concerning evaluation and red teaming,\n15 C Novelli and others, “AI Risk Assessment: A Scenario-Based, Proportional Methodology for the AI Act” (2024)\n3 Digital Society 13; C Novelli and others, “Taking AI Risks Seriously: A New Assessment Model for the AI Act”\n(2023) AI & SOCIETY <https://doi.org/10.1007/s00146-023-01723-z> (accessed 21 July 2023).",
+    "source": "semantic",
+    "offset": 132
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_133",
+    "text": "16 C Novelli and others, “Generative AI in EU Law: Liability, Privacy, Intellectual Property, and Cybersecurity”\n(14 January 2024) <https://papers.ssrn.com/abstract=4694565> (accessed 28 March 2024).",
+    "source": "semantic",
+    "offset": 133
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_134",
+    "text": "17 KN Vokinger and U Gasser, “Regulating AI in Medicine in the United States and Europe” (2021) 3 Nature\nMachine Intelligence 738; J Morley and others, “Governing Data and Artificial Intelligence for Health Care:\nDeveloping an International Understanding” (2022) 6 JMIR Formative Research e31623.",
+    "source": "semantic",
+    "offset": 134
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_135",
+    "text": "18 C Novelli, M Taddeo and L Floridi, “Accountability in Artificial Intelligence: What It Is and How It Works”\n(2023) AI & SOCIETY <https://doi.org/10.1007/s00146-023-01635-y> (accessed 31 July 2023).",
+    "source": "semantic",
+    "offset": 135
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_136",
+    "text": "19 What counts as a systemic risk in this field is stated at art.",
+    "source": "semantic",
+    "offset": 136
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_137",
+    "text": "51, point 1 AIA.",
+    "source": "semantic",
+    "offset": 137
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_138",
+    "text": "20 P Hacker, A Engel and M Mauer, “Regulating ChatGPT and Other Large Generative AI Models” (arXiv,\n10 February 2023) <http://arxiv.org/abs/2302.02337> (accessed 14 February 2023).",
+    "source": "semantic",
+    "offset": 138
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_139",
+    "text": "European Journal of Risk Regulation\n7\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\ncomprehensive risk assessment and mitigation, incident reporting, and cybersecurity\n(Article 55 AIA).",
+    "source": "semantic",
+    "offset": 139
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_140",
+    "text": "The classification authority is delineated in Article 51 AIA, which outlines\nthe criteria according to which a GPAI is considered to exhibit systemic risk.",
+    "source": "semantic",
+    "offset": 140
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_141",
+    "text": "The decision\nto classify a GPAI as systemically risky can be initiated by the Commission itself or in\nresponse to a qualified alert from the Scientific Panel confirming the presence of such\nhigh-impact capabilities.",
+    "source": "semantic",
+    "offset": 141
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_142",
+    "text": "The Commission may dynamically adjust regulatory parameters – such as thresholds,\nbenchmarks, and indicators – through delegated acts.",
+    "source": "semantic",
+    "offset": 142
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_143",
+    "text": "The adaptive mechanism is essential\nfor a robust governance model as it ensures that regulations remain relevant amidst the\nfast pace of technological advancements, including algorithm improvements and\nhardware efficiency.",
+    "source": "semantic",
+    "offset": 143
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_144",
+    "text": "The capacity to refine these regulatory measures is particularly\nvital as the trend in AI development moves towards creating more powerful yet “smaller”\nmodels that require fewer floating-point operations (FLOPs).21\nAgainst this background, Article 52 outlines a process allowing GPAI providers to\ncontest the Commission’s classification decisions.",
+    "source": "semantic",
+    "offset": 144
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_145",
+    "text": "This provision is pivotal, potentially\nbecoming a primary area of contention within the AI Act, akin to the legal disputes\nobserved under the DSA, where entities like Zalando and Amazon have disputed their\ncategorisation as Very Large Online Platforms.22 Particularly, GPAI providers whose\nmodels are trained with fewer than 10^25 FLOPs yet are deemed systemically risky are\nexpected to use this mechanism actively, possibly leading to legal challenges that could\nreach the Court of Justice of the European Union (CJEU).",
+    "source": "semantic",
+    "offset": 145
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_146",
+    "text": "The legal recourse presented here\nis a double-edged sword.",
+    "source": "semantic",
+    "offset": 146
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_147",
+    "text": "On the one hand, it constitutes an essential component of the AIA,\noffering a counterbalance to the Commission’s regulatory powers and ensuring a venue for\naddressing potential methodological errors or disputes over classifications.",
+    "source": "semantic",
+    "offset": 147
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_148",
+    "text": "On the other\nhand, it provides a venue for providers with deep pockets to delay the application of the\nmore stringent rules for systemically relevant GPAI.",
+    "source": "semantic",
+    "offset": 148
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_149",
+    "text": "Simultaneously, this reinforces the\nimportance of the presumptive 10^25 FLOP threshold – which is outdating rapidly due to\nthe growing capabilities of smaller foundation models.",
+    "source": "semantic",
+    "offset": 149
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_150",
+    "text": "III.4.",
+    "source": "semantic",
+    "offset": 150
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_151",
+    "text": "Prohibited systems\nThe Commission is tasked with developing guidelines to address prohibited AI practices\n(Article 5, AIA), including setting technical standards and best practices for AI system design\nto prevent manipulative techniques.",
+    "source": "semantic",
+    "offset": 151
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_152",
+    "text": "It must also define criteria for exceptions where AI can\nbe used to address significant threats or terrorist activities, with specific allowances for law\nenforcement, such as the use of real-time remote biometric identification in public spaces.",
+    "source": "semantic",
+    "offset": 152
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_153",
+    "text": "These guidelines will also outline necessary procedural safeguards to ensure such exceptions\ndo not infringe on fundamental rights.",
+    "source": "semantic",
+    "offset": 153
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_154",
+    "text": "They will be crucial to balance law enforcement needs\nwith individual privacy and freedom protections.23\nIII.5.",
+    "source": "semantic",
+    "offset": 154
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_155",
+    "text": "Harmonised standards and high-risk obligations\nThe Commission must also set harmonised standards and define obligations for providers\nof high-risk AI systems under the AIA, requiring a comprehensive “in-door” risk\nmanagement process that is continuous and iterative throughout the system’s lifecycle.",
+    "source": "semantic",
+    "offset": 155
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_156",
+    "text": "21 S Ma and others, “The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits” (arXiv, 27 February 2024)\n<http://arxiv.org/abs/2402.17764> (accessed 28 March 2024).",
+    "source": "semantic",
+    "offset": 156
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_157",
+    "text": "22 FY Chee and FY Chee, “Amazon Makes First Big Tech Challenge to EU Online Content Rules” Reuters (11 July\n2023)\n<https://www.reuters.com/technology/amazon-challenges-eu-online-content-rules-says-unfairly-single\nd-out-2023-07-11/> (accessed 28 March 2024).",
+    "source": "semantic",
+    "offset": 157
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_158",
+    "text": "23 Notably, a recent CJEU Decision (Case-588/21) mandates the public disclosure of harmonised technical\nstandards to reinforce principles of the rule of law and free access to the law.",
+    "source": "semantic",
+    "offset": 158
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_159",
+    "text": "8\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 159
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_160",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nThis includes detailing timelines, design choices, data processing methods, and strategies\nto mitigate biases, alongside standardising technical documentation as per Annex IV, with\nupdates via delegated acts to adapt to technological advances and ensure compliance with\nregulatory standards.",
+    "source": "semantic",
+    "offset": 160
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_161",
+    "text": "III.6.",
+    "source": "semantic",
+    "offset": 161
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_162",
+    "text": "Information and transparency\nThe Commission is also responsible for setting forth information obligations along the AI\nvalue chain that reflect the current technological standards for providers of high-risk\nsystems (Article 28 AIA) and offering guidance to ensure compliance with transparency\nrequirements, which holds particular significance for GPAI (Article 53 AIA).",
+    "source": "semantic",
+    "offset": 162
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_163",
+    "text": "To achieve\nthis, the Commission might, for example, issue directives on properly revealing the use of\nGPAI across different settings, considering the medium and essence of the content\nimplicated.",
+    "source": "semantic",
+    "offset": 163
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_164",
+    "text": "III.7.",
+    "source": "semantic",
+    "offset": 164
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_165",
+    "text": "Overlap with other regulations and enforcement timeline\nFinally, the Commission must elucidate the interplay between the AIA and other EU\nlegislative frameworks to guarantee internal systematicity and consistent enforcement\nacross the board.",
+    "source": "semantic",
+    "offset": 165
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_166",
+    "text": "Specifically, the Commission may need to offer illustrative examples of\npotential overlaps or conflicts and promoting the formation of joint oversight entities or\nworking groups.",
+    "source": "semantic",
+    "offset": 166
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_167",
+    "text": "Such initiatives would facilitate the exchange of information, standardise\nenforcement approaches, and develop unified interpretative guidelines, ensuring a\nharmonised regulatory landscape across the European Union.",
+    "source": "semantic",
+    "offset": 167
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_168",
+    "text": "The AIA’s enforcement is structured in stages, with transition periods for compliance\nvarying by the risk level of AI systems and linked to the Act’s official entry into force.",
+    "source": "semantic",
+    "offset": 168
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_169",
+    "text": "Specific grace periods are set for different categories of AI systems, ranging from 6 to 36\nmonths.",
+    "source": "semantic",
+    "offset": 169
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_170",
+    "text": "However, for existing GPAI systems already on the market, a grace period of 24\nmonths is granted before they must comply fully (Article 83(3) AIA).",
+    "source": "semantic",
+    "offset": 170
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_171",
+    "text": "Even more\nimportantly, high-risk systems already on the market 24 months after the entry into force\nare entirely exempt from the AIA until significant changes are made in their designs\n(Article 83(2) AIA).",
+    "source": "semantic",
+    "offset": 171
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_172",
+    "text": "Conceptually, this meaningful change can be equated with the\nsubstantial modification discussed above.",
+    "source": "semantic",
+    "offset": 172
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_173",
+    "text": "Arguably, however, this blank exemption is in\ndeep tension with a principle of product safety law: it applies to all models on the market,\nirrespective of when they entered the market.",
+    "source": "semantic",
+    "offset": 173
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_174",
+    "text": "Moreover, the grace period for GPAI and the\nexemption for existing high-risk systems favor incumbents vis-à-vis newcomers, which is\nquestionable from a competition perspective.",
+    "source": "semantic",
+    "offset": 174
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_175",
+    "text": "IV.",
+    "source": "semantic",
+    "offset": 175
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_176",
+    "text": "Supranational authorities: the AI Office, the AI Board, and the\nother bodies\nThe AIA mandates a comprehensive governance framework, as highlighted in Recital 5 of\nthe Commission’s Decision that establishes the AI Office.",
+    "source": "semantic",
+    "offset": 176
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_177",
+    "text": "Under this framework, the AI\nOffice is responsible for overseeing AI advancements, liaising with the scientific\ncommunity, and playing a pivotal role in investigations, testing, and enforcement, all\nwhile maintaining a global perspective.",
+    "source": "semantic",
+    "offset": 177
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_178",
+    "text": "The governance structure proposed by the AIA involves establishing national and\nsupranational bodies.",
+    "source": "semantic",
+    "offset": 178
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_179",
+    "text": "Two key institutions are formed at the supranational level: the AI\nOffice and the European AI Board.",
+    "source": "semantic",
+    "offset": 179
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_180",
+    "text": "While distinct in structure and task, these entities are\nsomehow complementary.",
+    "source": "semantic",
+    "offset": 180
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_181",
+    "text": "The AI Office is anticipated to focus on regulatory oversight and\nenforcement, especially concerning GPAI models.",
+    "source": "semantic",
+    "offset": 181
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_182",
+    "text": "The European AI Board is expected to\nEuropean Journal of Risk Regulation\n9\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nensure coordination among Member States, enhancing the AIA’s implementation through\nadvice, consultation, and awareness initiatives.",
+    "source": "semantic",
+    "offset": 182
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_183",
+    "text": "Besides these two, the AIA also introduces\nother significant, though partially autonomous, supranational bodies, namely the\nScientific Panel and the Advisory Forum.",
+    "source": "semantic",
+    "offset": 183
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_184",
+    "text": "Table 2 below outlines the structure, composition, missions, and tasks of the\ninstitutional bodies implementing and enforcing the AIA.",
+    "source": "semantic",
+    "offset": 184
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_185",
+    "text": "It provides a foundation for the\nmore detailed discussion to follow in subsequent sections.",
+    "source": "semantic",
+    "offset": 185
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_186",
+    "text": "IV.1.",
+    "source": "semantic",
+    "offset": 186
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_187",
+    "text": "The AI Office\nThe first step in implementing the AIA was establishing a centralised AI Office, in January\n2024.24 Its primary mission is to lay down harmonised rules to implement and enforce the\nAIA consistently across the EU.",
+    "source": "semantic",
+    "offset": 187
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_188",
+    "text": "The formation of the AI Office is geared towards unifying\nEurope’s AI expertise by leveraging insights from the scientific domain.",
+    "source": "semantic",
+    "offset": 188
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_189",
+    "text": "In implementing\nthe AI Act, much will depend on “getting the AI Office right.”\nThe Office’s broad mandate involves collaboration with scientific experts, national\nauthorities, industry representatives, and significant institutions like the European High-\nPerformance Computing Joint Undertaking and international organisations.",
+    "source": "semantic",
+    "offset": 189
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_190",
+    "text": "An important\naspect of the AI Office’s role is overseeing General-Purpose AI (GPAI) technologies,\nexemplified by ChatGPT and Gemini (e.g., Articles 52 to 56 AIA).",
+    "source": "semantic",
+    "offset": 190
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_191",
+    "text": "a.",
+    "source": "semantic",
+    "offset": 191
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_192",
+    "text": "Institutional identity, composition, and operational autonomy\nRegarding its institutional identity, the AI Office resembles EU interinstitutional services,\nmarked by its focused scope – currently dedicated solely to implementing the AIA – and its\nrole in providing cross-support to various institutions such as the EP, Council, and the\nCentral Bank.",
+    "source": "semantic",
+    "offset": 192
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_193",
+    "text": "Like interinstitutional services, it extends support to agencies and bodies like\nthe European Data Protection Board and the European Investment Bank.",
+    "source": "semantic",
+    "offset": 193
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_194",
+    "text": "It is explicitly\nstipulated in Articles 5 and 6 of the Commission’s Decision that the AI Office is entrusted\nwith supporting the European Artificial Intelligence Board and collaborating with the\nCentre for Algorithmic Transparency.",
+    "source": "semantic",
+    "offset": 194
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_195",
+    "text": "This places the AI Office alongside other\ninterinstitutional services, such as the Computer Emergency Response Team (CERT-EU),\nillustrating its distinctive function within the EU framework.",
+    "source": "semantic",
+    "offset": 195
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_196",
+    "text": "However, unlike interinstitutional services, the AI Office is integrated within the\nadministrative framework of a single entity, specifically the DG for Communication\nNetworks, Content, and Technology (DG-CNECT) of the Commission.",
+    "source": "semantic",
+    "offset": 196
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_197",
+    "text": "The AI Office thus\nrepresents primarily a centralised institutional design (see Option 1 above).",
+    "source": "semantic",
+    "offset": 197
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_198",
+    "text": "DG-CNECT\noperates similarly to a national ministry, overseeing the implementation of policies and\nprograms related to the digital single market.",
+    "source": "semantic",
+    "offset": 198
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_199",
+    "text": "Within DG-CNECT, there are multiple units\n(called Connects), each specialising in various facets of digital policy, technology, and\nadministration.",
+    "source": "semantic",
+    "offset": 199
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_200",
+    "text": "These units often have overlapping competencies, and the AI Office\nengages in cross-cutting issues relevant to several of them, with Connect A (‘Artificial\nIntelligence and Digital Industry’) being particularly central.",
+    "source": "semantic",
+    "offset": 200
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_201",
+    "text": "Integrating the AI Office within the DG implies that it operates under the regulations\nand procedural framework of the Commission.",
+    "source": "semantic",
+    "offset": 201
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_202",
+    "text": "However, the AI Office’s precise\norganisational structure, specific method of ensuring expertise, and operational autonomy\nremain ambiguous.",
+    "source": "semantic",
+    "offset": 202
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_203",
+    "text": "No provisions, either in the AIA or in the Commission’s Decision, have\nbeen established regarding the composition of the AI Office, its collaborative dynamics\nwith the various Connects within the DG, or the extent of its operational autonomy.",
+    "source": "semantic",
+    "offset": 203
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_204",
+    "text": "The\nAIA emphasises the necessity for national competent authorities to possess “adequate\n24 It has been established through a Commission’s Decision (Brussels, 24.1.2024, C (2024) 390 final).",
+    "source": "semantic",
+    "offset": 204
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_205",
+    "text": "10\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 205
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_206",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nTable 2.",
+    "source": "semantic",
+    "offset": 206
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_207",
+    "text": "Structures, compositions, missions, and tasks of the institutional bodies involved in the AIA implementation\nand enforcement\nInstitutional Body\nStructure and Composition\nMission and Tasks\nAI Office (Art.",
+    "source": "semantic",
+    "offset": 207
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_208",
+    "text": "64 AIA and\nCommission’s Decision)\nCentralised within the DG-\nCNECT of the Commission\n- Harmonise AIA implementation and\nenforcement across the EU\n- Support implementing and delegated\nacts\n- Standardisation and best practices\n- Assist in the establishment and\noperation of regulatory sandboxes\n- Assess and monitor GPAIs and aid\ninvestigations into rule violations\n- Provide administrative support to\nother bodies (Board, Advisory Forum,\nScientific Panel)\n- Consult and cooperate with\nstakeholders\n- Cooperate with other relevant DG and\nservices of the Commission\n- International cooperation\nAI Board (Art.",
+    "source": "semantic",
+    "offset": 208
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_209",
+    "text": "65 AIA)\nRepresentatives from each\nMember State, with the AI\nOffice and the European Data\nProtection Supervisor\nparticipating as observers\n- Facilitate consistent and effective\napplication of the AIA\n- Coordinate national competent\nauthorities\n- Harmonise administrative practices.",
+    "source": "semantic",
+    "offset": 209
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_210",
+    "text": "- Issue recommendations and opinions\n(upon requests of the Commission)\n- Support the establishment and\noperation of regulatory sandboxes\n- Gather feedback on GPAI-related\nalerts\nAdvisory Forum (Art.",
+    "source": "semantic",
+    "offset": 210
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_211",
+    "text": "67 AIA)\nStakeholders appointed by the\nCommission\n- Provide technical expertise\n- Prepare opinions and\nrecommendations (upon request of the\nBoard and the Commission)\n- Establish sub-groups for examining\nspecific questions\n- Prepare an annual report on activities\nScientific Panel (Art.",
+    "source": "semantic",
+    "offset": 211
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_212",
+    "text": "68 AIA)\nIndependent experts selected by\nthe Commission\n- Support enforcement of AI regulation,\nespecially for GPAI\n- Provide advice on the classification of\nAI models with systemic risk\n- Alert AI Office of systemic risks\n- Develop evaluation tools and\nmethodologies for GPAIs\n- Support market surveillance authorities\nand cross-border activities\nNotifying Authorities\n(Artt.",
+    "source": "semantic",
+    "offset": 212
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_213",
+    "text": "28-29 AIA)\nDesignated or established by\nMember States\n- Process applications for notification\nfrom conformity assessment bodies\n(CABs)\n- Monitor CABs\n- Cooperate with authorities from other\nMember States\n- Ensure no conflict of interest with\nconformity assessment bodies\n- Conflict of interest prevention and\nassessment impartiality\n(Continued)\nEuropean Journal of Risk Regulation\n11\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\ntechnical, financial, and human resources, and infrastructure to fulfill their tasks\neffectively, with a sufficient number of personnel permanently available” (Article 70(3)\nAIA), covering expertise areas from data computing to fundamental rights.",
+    "source": "semantic",
+    "offset": 213
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_214",
+    "text": "However, there\nare no equivalent stipulations for the AI Office.",
+    "source": "semantic",
+    "offset": 214
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_215",
+    "text": "This absence is likely justified by the\nexpectation that the AI Office will, at least partially, use the existing infrastructure and\nhuman resources of the DG-CNECT.",
+    "source": "semantic",
+    "offset": 215
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_216",
+    "text": "Nonetheless, expert hiring and substantial funding will\nbe crucial for the success of the Office, an issue that represents a significant challenge for\nthe public sector as it competes with some of the best-funded private companies on the\nplanet.",
+    "source": "semantic",
+    "offset": 216
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_217",
+    "text": "Regarding its operational autonomy, the AI Office is subject to two primary constraints,\naside from its absence of legal personality, which sets it apart from EU agencies.",
+    "source": "semantic",
+    "offset": 217
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_218",
+    "text": "First, its\nincorporation into the administrative structure of DG-CNECT means that DG-CNECT’s\nmanagement plan will guide the AI Office’s strategic priorities and the distribution of\nresources, directly influencing the scope and direction of its initiatives.",
+    "source": "semantic",
+    "offset": 218
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_219",
+    "text": "Second, the operational autonomy of the AI Office is further restricted by the defined\ncompetencies of other entities, including EU bodies, offices, agencies, and national\nauthorities.",
+    "source": "semantic",
+    "offset": 219
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_220",
+    "text": "While it seems appropriate for the AI Office to perform its duties in issuing\nguidance without duplicating the efforts of relevant Union bodies, offices, and agencies\nunder sector-specific legislation (as per Recital 7 of the Commission’s Decision), the\nmechanisms for coordination remain ambiguous.",
+    "source": "semantic",
+    "offset": 220
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_221",
+    "text": "This ambiguity includes how conflicts or\noverlaps in competencies – e.g., with the European Data Protection Board (EDPB)\nconcerning data quality and management obligations for providers of high-risk systems as\nstipulated by the AIA – will be managed.",
+    "source": "semantic",
+    "offset": 221
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_222",
+    "text": "Consider the development of a healthcare AI\nsystem handling sensitive personal data.",
+    "source": "semantic",
+    "offset": 222
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_223",
+    "text": "Here, the AI Office may emphasise the system’s\ninnovative contributions to healthcare.",
+    "source": "semantic",
+    "offset": 223
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_224",
+    "text": "In contrast, the EDPB might insist on strict\nadherence to GDPR data protection principles, potentially causing tensions in the system’s\ndeployment and usage.",
+    "source": "semantic",
+    "offset": 224
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_225",
+    "text": "Resolving such discrepancies could involve defining the AI Office’s organisational\nstructure\nand\noperational\nscope.",
+    "source": "semantic",
+    "offset": 225
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_226",
+    "text": "Clarification\ncould\ninclude\nspecifying\nwhether\nTable 2.",
+    "source": "semantic",
+    "offset": 226
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_227",
+    "text": "(Continued )\nInstitutional Body\nStructure and Composition\nMission and Tasks\nNotified Bodies (Artt.",
+    "source": "semantic",
+    "offset": 227
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_228",
+    "text": "29-38\nAIA)\nA third-party conformity\nassessment body (with legal\npersonality) notified under the\nAIA\n- Verify the conformity of high-risk AI\nsystems\n- Issue certifications\n- Manage and document subcontracting\narrangements\n- Periodic assessment activities (audits)\n- Participate in coordination activities\nand European standardisation\nMarket Surveillance\nAuthorities (Artt.",
+    "source": "semantic",
+    "offset": 228
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_229",
+    "text": "70–72\nAIA)\nEntities designated or established\nby Member States as single\npoints of contact\n- Non-compliance investigation and\ncorrection for high-risk AI systems\n(e.g., risk measures)\n- Real-world testing oversight and\nserious incident report management\n- Guide and advice on the\nimplementation of the regulation,\nparticularly to SMEs and start-ups\n- Consumer protection and fair\ncompetition support\n12\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 229
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_230",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\ncollaborative mechanisms exist, such as joint working groups between the AI Office and\nother EU entities or establishing interagency agreements.",
+    "source": "semantic",
+    "offset": 230
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_231",
+    "text": "Such agreements could mirror\nthe Memorandum of Understanding between the European Data Protection Supervisor\n(EDPS) and the European Union Agency for Cybersecurity (ENISA).",
+    "source": "semantic",
+    "offset": 231
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_232",
+    "text": "b.",
+    "source": "semantic",
+    "offset": 232
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_233",
+    "text": "Mission(s) and task\nWhile the DG-CNECT pursues a wide range of goals from internet governance to green\ndevelopment, the AI Office’s primary mission, according to the Commission Decision, is to\nensure the harmonised implementation and enforcement of the AIA (Article 2, point 1 of\nthe Decision).",
+    "source": "semantic",
+    "offset": 233
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_234",
+    "text": "However, the Decision outlines auxiliary missions: enhancing a strategic and\neffective EU approach to global AI “initiatives”, promoting actions that maximise AI’s\nsocietal and economic benefits, supporting the swift development and deployment of\ntrustworthy AI systems that boost societal welfare and EU competitiveness, and keeping\ntrack of AI market and technology advancements (Article 2, point 2).",
+    "source": "semantic",
+    "offset": 234
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_235",
+    "text": "The language used in the provisions concerning the AI Office tasks, notably in Article 2a,\nis broad and open-ended, referring to contributions to “initiatives on AI” without\nspecifying details.",
+    "source": "semantic",
+    "offset": 235
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_236",
+    "text": "Ambiguity may have been intentional, inviting further interpretation.",
+    "source": "semantic",
+    "offset": 236
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_237",
+    "text": "One interpretation is that the AI Office’s role could go beyond the scope of the AIA to\ninclude support for implementing additional AI normative frameworks, such as the revised\nProduct Liability Directive or the Artificial Intelligence Liability Directive (AILD).",
+    "source": "semantic",
+    "offset": 237
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_238",
+    "text": "Expanding the AI Office’s remit in this way could be advantageous, as limiting its focus\nto a single regulation might lead to squandering valuable expertise developed through the\nAIA’s implementation.",
+    "source": "semantic",
+    "offset": 238
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_239",
+    "text": "Moreover, broadening the AI Office’s mandate to ensure\nharmonising the AIA’s rules with other AI regulations could prevent conflicts and\ninconsistencies, thereby aiding Member States and their respective authorities in adopting\na comprehensive AI legislative framework.",
+    "source": "semantic",
+    "offset": 239
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_240",
+    "text": "Such an expansion suggests the Office’s\npotential as an emerging EU “digital agency”.",
+    "source": "semantic",
+    "offset": 240
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_241",
+    "text": "However, designating the AI Office as the competent authority for multiple regulatory\nframeworks – with varying tasks depending on the specific framework – points to a\npotential need for restructuring.",
+    "source": "semantic",
+    "offset": 241
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_242",
+    "text": "The AI Office might require future transformation into\na more autonomous body.",
+    "source": "semantic",
+    "offset": 242
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_243",
+    "text": "Without necessarily acquiring legal personality, the AI Office\nmight evolve into an inter-institutional service like the CERT-EU, which could necessitate\ndetaching it from the Commission’s administrative framework.",
+    "source": "semantic",
+    "offset": 243
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_244",
+    "text": "The main issue with transforming the AI Office into an inter-institutional service lies in\nthe inherent design of such services.",
+    "source": "semantic",
+    "offset": 244
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_245",
+    "text": "They are primarily established to offer widespread\nsupport across EU institutions, focusing on internal functionalities such as recruitment\n(via the European Personnel Selection Office, EPSO), staff training, promoting inter-\ninstitutional collaboration, and facilitating the efficient execution of legislative and policy\nframeworks.",
+    "source": "semantic",
+    "offset": 245
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_246",
+    "text": "In contrast, the AI Office’s mandate involves spearheading the implementa-\ntion of the AIA, entailing the issuance of guidelines, regulation enforcement, and\ncompliance oversight.",
+    "source": "semantic",
+    "offset": 246
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_247",
+    "text": "Given such entities’ predominantly supportive and non-regulatory\nnature, transitioning into an inter-institutional service might dilute its capability to\nperform these critical functions.",
+    "source": "semantic",
+    "offset": 247
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_248",
+    "text": "Against this background, a crucial aspect concerning the AI Office is the ambiguity in\nthe current normative framework regarding the breadth of its mission scope.",
+    "source": "semantic",
+    "offset": 248
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_249",
+    "text": "This\nambiguity sets it apart from the European Food Safety Authority (EFSA) or the European\nMedicines Agency (EMA) (in terms of isolation problems) but also opens the door to a\npotentially beneficial interpretation, allowing the AI Office to oversee multiple entities.",
+    "source": "semantic",
+    "offset": 249
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_250",
+    "text": "It is critical to emphasise that adopting this more comprehensive interpretative approach\nwould require appropriate changes in the institutional design to accommodate the Office’s\nextended functions.",
+    "source": "semantic",
+    "offset": 250
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_251",
+    "text": "European Journal of Risk Regulation\n13\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nConcerning its specific tasks, the AI Office plays a pivotal role in applying and enforcing\nregulations concerning GPAI, focusing on standardisation efforts to harmonise tools,\nmethodologies, and criteria for evaluating systemic risks associated with GPAI across\nsupranational and national levels.",
+    "source": "semantic",
+    "offset": 251
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_252",
+    "text": "It also monitors GPAIs continuously for adherence to\nstandards and potential new risks, supports investigations into GPAI violations, and assists\nin developing delegated acts and regulatory sandboxes for all AI systems under the AIA.",
+    "source": "semantic",
+    "offset": 252
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_253",
+    "text": "The responsibilities assigned to the AI Office are broadly defined, with the expectation\nthat their precise implementation will evolve based on practical experience.",
+    "source": "semantic",
+    "offset": 253
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_254",
+    "text": "The AI Office\nrequires significant expertise and financial resources to offer support and technical advice\nacross diverse tasks and AI systems.",
+    "source": "semantic",
+    "offset": 254
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_255",
+    "text": "Achieving this will demand a robust administrative\nframework that effectively manages internal subgroup coordination and external\nengagements with supranational and national entities.",
+    "source": "semantic",
+    "offset": 255
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_256",
+    "text": "An important aspect to consider within the operational scope of the Office is the nature\nof its decisions.",
+    "source": "semantic",
+    "offset": 256
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_257",
+    "text": "The AI Office does not issue binding decisions on its own.",
+    "source": "semantic",
+    "offset": 257
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_258",
+    "text": "Instead, it\nprovides support and advice to the Commission.",
+    "source": "semantic",
+    "offset": 258
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_259",
+    "text": "Nonetheless, it plays a role in formulating\nthe Commission’s decisions, including implementing and delegated acts, which, while non-\nlegislative, are binding across all Member States.",
+    "source": "semantic",
+    "offset": 259
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_260",
+    "text": "These decisions by the Commission can\nbe challenged based on various grounds, such as exceeding its authority or misusing its\npowers, and through specific processes before and after they are formally adopted.",
+    "source": "semantic",
+    "offset": 260
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_261",
+    "text": "For\nexample, before adoption, implementing and delegated acts can be contested through\nfeedback mechanisms provided by committees (as part of the comitology) or by EU\ninstitutions; once adopted, these acts are subject to judicial review by the Court of Justice\nof the EU, which assesses their compliance with the foundational legislation.25\nHowever, the effectiveness of mechanisms for appealing decisions may be compromised\nby the opaque nature of the AI Office’s support to the Commission, its interactions\nwithin DG-CNECT, and its relationships with external bodies, such as national authorities.",
+    "source": "semantic",
+    "offset": 261
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_262",
+    "text": "Such opacity can obscure the reasons behind certain implementing or delegated acts,\nwhich is particularly concerning given the AI Office’s engagement with external experts\nand stakeholders.26 Accordingly, the documentation and disclosure of the AI Office’s\ncontributions, as evidenced through summary records in the comitology register and the\nexplanatory memoranda accompanying the Commission’s delegated acts, become crucial.",
+    "source": "semantic",
+    "offset": 262
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_263",
+    "text": "IV.2.",
+    "source": "semantic",
+    "offset": 263
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_264",
+    "text": "The AI Board, the Advisory Forum, and the Scientific Panel\nThe European Artificial Intelligence Board (hereafter “the Board”) is distinct from the AI\nOffice.",
+    "source": "semantic",
+    "offset": 264
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_265",
+    "text": "Yet, it undertakes tasks that are parallel and intersect with those of the AI Office,\nparticularly in supervising and directing the execution of the AIA.",
+    "source": "semantic",
+    "offset": 265
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_266",
+    "text": "Currently, the\ngovernance and operational structure of the Board is primarily detailed in Articles 65 and\n66 of the AIA.",
+    "source": "semantic",
+    "offset": 266
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_267",
+    "text": "In addition to the Board, the AIA also establishes other bodies that, while\nindependent in their formation, support the Board: the Advisory Forum and the Scientific\nPanel.",
+    "source": "semantic",
+    "offset": 267
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_268",
+    "text": "The result is a complex network of bodies, making their coordination challenging.",
+    "source": "semantic",
+    "offset": 268
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_269",
+    "text": "a.",
+    "source": "semantic",
+    "offset": 269
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_270",
+    "text": "Structures, roles, and composition of the three bodies\nThe Board consists of a representative from each Member State, appointed for three years,\nwith one of them as the chair.",
+    "source": "semantic",
+    "offset": 270
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_271",
+    "text": "The AI Office and the European Data Protection Supervisor\nparticipate as observers without voting powers.",
+    "source": "semantic",
+    "offset": 271
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_272",
+    "text": "Unlike the generic recruitment criteria for\n25 R Dehousse, “Comitology: Who Watches the Watchmen?” (2003) 10 Journal of European Public Policy 798;\nBrandsma and Blom-Hansen (n 14).",
+    "source": "semantic",
+    "offset": 272
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_273",
+    "text": "26 This also emerges from the published call for interests: https://digital-strategy.ec.europa.eu/en/policies/\nai-office.",
+    "source": "semantic",
+    "offset": 273
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_274",
+    "text": "14\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 274
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_275",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nthe AI Office, the AIA explicitly requires that Member States appoint representatives to the\nBoard who have the requisite expertise and authority in their respective countries to\ncontribute to the Board’s missions effectively.",
+    "source": "semantic",
+    "offset": 275
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_276",
+    "text": "These representatives are also empowered\nto gather essential data and information to ensure uniformity and coordination among\nnational competent authorities (Article 65(4)(c) AIA).",
+    "source": "semantic",
+    "offset": 276
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_277",
+    "text": "Coordination is supported by two\npermanent sub-groups, which serve as platforms for collaboration and information\nsharing between market surveillance and notifying authorities.",
+    "source": "semantic",
+    "offset": 277
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_278",
+    "text": "Additionally, the Board has\nthe authority to form temporary sub-groups to delve into other specific topics.27\nThe Board may invite other authorities or experts on a case-by-case basis.",
+    "source": "semantic",
+    "offset": 278
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_279",
+    "text": "However, it\nwill be supported by an Advisory Forum (hereafter “the Forum”), which provides technical\nexpertise also to the Commission (Article 67 AIA).",
+    "source": "semantic",
+    "offset": 279
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_280",
+    "text": "The Commission will ensure the Forum\nincludes diverse stakeholders, such as industry representatives, start-ups, small and\nmedium-sized enterprises (SMEs), civil society groups, and academic institutions, to offer\ncomprehensive stakeholder feedback to the Commission and the Board.",
+    "source": "semantic",
+    "offset": 280
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_281",
+    "text": "Finally, the AIA mandates the creation of a Scientific Panel of independent experts\n(hereafter “the Panel”) through a Commission implementing act, aimed at bolstering the\nAIA’s enforcement activities (Article 68 AIA).",
+    "source": "semantic",
+    "offset": 281
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_282",
+    "text": "In consultation with the Board, the\nCommission will determine the Panel’s membership, selecting experts based on their\nspecialised knowledge and independence from AI system providers.",
+    "source": "semantic",
+    "offset": 282
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_283",
+    "text": "The Panel is designed\nto be a resource for Member States and assist them in enforcing the AIA.",
+    "source": "semantic",
+    "offset": 283
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_284",
+    "text": "It should be noted\nthat Member States may need to pay fees for the expert advice and support provided by\nthe Panel (Article 69 AIA).",
+    "source": "semantic",
+    "offset": 284
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_285",
+    "text": "Within the EU’s regulatory framework for AI, the AI Board operates as an advisory body,\nthe Advisory Forum acts as a consultative body offering industry insights to both the Board\nand the Commission, and the Scientific Panel primarily provides expert scientific support\nto the AI Office and the Member States in need of its specialised knowledge.",
+    "source": "semantic",
+    "offset": 285
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_286",
+    "text": "The\ncomposition of these entities varies: the members of the AI Board are appointed by\nMember States, and the Commission and the Board choose the Advisory Forum’s members.",
+    "source": "semantic",
+    "offset": 286
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_287",
+    "text": "In contrast, the Scientific Panel’s members are appointed solely by the Commission.",
+    "source": "semantic",
+    "offset": 287
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_288",
+    "text": "Despite the distinct tasks assigned to them, which will be discussed later, the necessity\nof having three separate entities with pretty similar compositions raises questions.",
+    "source": "semantic",
+    "offset": 288
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_289",
+    "text": "The AI\nBoard’s establishment is understandable for ensuring representation and coordination\namong Member States and maintaining some independence from EU institutions, without\nrequiring members to possess scientific expertise.",
+    "source": "semantic",
+    "offset": 289
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_290",
+    "text": "However, the rationale behind keeping\nthe Advisory Forum and the Scientific Panel is not apparent.",
+    "source": "semantic",
+    "offset": 290
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_291",
+    "text": "The Advisory Forum is\nintended to draw upon the diverse perspectives of civil society and industry sectors,\nessentially acting as an institutionalised form of lobbying to represent their varying\ncommercial interests.",
+    "source": "semantic",
+    "offset": 291
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_292",
+    "text": "However, it must also ensure a balance with non-commercial\ninterests.",
+    "source": "semantic",
+    "offset": 292
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_293",
+    "text": "In contrast, the Scientific Panel consists of independent and (hopefully) unbiased\nacademic experts with specific tasks related to GPAIs.",
+    "source": "semantic",
+    "offset": 293
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_294",
+    "text": "b.",
+    "source": "semantic",
+    "offset": 294
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_295",
+    "text": "Mission(s) and tasks: Ockham’s razor\nThe three bodies are set to perform slightly different tasks.",
+    "source": "semantic",
+    "offset": 295
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_296",
+    "text": "The Board undertakes\nnumerous tasks (Article 66 AIA), such as providing guidance and support to the\nCommission and Member States to coordinate national authorities.",
+    "source": "semantic",
+    "offset": 296
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_297",
+    "text": "It offers recom-\nmendations for delegated and implementing acts and aims to standardise administrative\npractices across Member States, for instance, through addressing exemptions from\nconformity assessment procedures and by supporting the operation of regulatory\n27 The AIA has outlined initial functions and roles for the Board, yet additional details and responsibilities are\nexpected to be further delineated in subsequent legislation.",
+    "source": "semantic",
+    "offset": 297
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_298",
+    "text": "European Journal of Risk Regulation\n15\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nsandboxes (Article 66(d) AIA).",
+    "source": "semantic",
+    "offset": 298
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_299",
+    "text": "Additionally, the Board advises on creating codes of conduct\nand applying harmonised standards, supports the AI Office in helping national authorities\nestablish and enhance regulatory sandboxes, and gathers feedback from Member States on\nalerts related to GPAIs.",
+    "source": "semantic",
+    "offset": 299
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_300",
+    "text": "Note that, other than the European Data Protection Board under Article 65 GDPR, the AI\nBoard does not have the authority to revise national supervisory agency decisions or\nresolve disputes between national authorities with binding force.",
+    "source": "semantic",
+    "offset": 300
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_301",
+    "text": "Under the GDPR, this has\nemerged as a critical mechanism, particularly in dealing with the contentious ruling of the\nIrish Data Protection Commission concerning big technology companies headquartered in\nIreland.28 This lack of a corresponding authority for the AI Board may prove a distinct\ndisadvantage, hindering the uniform application of the law, if some Member States\ninterpret the AIA in highly idiosyncratic fashions (as the Irish Data Protection Commission\ndid with the GDPR).",
+    "source": "semantic",
+    "offset": 301
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_302",
+    "text": "In this context, one may particularly think of the supervision of the\nlimitations enshrined in Article 5 AIA on surveillance tools using remote biometric\nidentification.",
+    "source": "semantic",
+    "offset": 302
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_303",
+    "text": "European oversight may be required, especially in countries with significant\ndemocratic backsliding, to avoid the abuse of AI for stifling legitimate protest and\nestablishing an illiberal surveillance regime.",
+    "source": "semantic",
+    "offset": 303
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_304",
+    "text": "The Board and Office collaboration will be characterised by mutual support.",
+    "source": "semantic",
+    "offset": 304
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_305",
+    "text": "However,\nwhile there are areas where the functions of the AI Board and the AI Office might seem to\noverlap, especially from the viewpoint of Member States, merging these two entities is not\nviable.",
+    "source": "semantic",
+    "offset": 305
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_306",
+    "text": "The need for political representation and their distinct roles – where the Board\nprovides advisory insights and the Office executes the Commission’s binding decisions –\nprevents such a merger.",
+    "source": "semantic",
+    "offset": 306
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_307",
+    "text": "Similarly, the roles of the Advisory Forum and the Scientific Panel might not be\ndistinctly demarcated.",
+    "source": "semantic",
+    "offset": 307
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_308",
+    "text": "The Advisory Forum has a broad mandate to provide advice and\nexpertise to the Board and the Commission, supporting various tasks under the AIA.",
+    "source": "semantic",
+    "offset": 308
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_309",
+    "text": "The Scientific Panel advises and supports the AI Office, specifically on implementing\nand enforcing the AIA, focusing on GPAIs.",
+    "source": "semantic",
+    "offset": 309
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_310",
+    "text": "Its tasks include developing evaluation tools,\nbenchmarks, and methodologies for GPAIs, advising on classifying GPAIs with systemic\nrisks, and assisting Member States in their enforcement activities as requested\n(Article 68 AIA).",
+    "source": "semantic",
+    "offset": 310
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_311",
+    "text": "However, the distinction between the Advisory Forum and the Scientific Panel seems\nless precise than the separation between the Board and the Office.",
+    "source": "semantic",
+    "offset": 311
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_312",
+    "text": "Questions arise\nregarding the exclusivity of the Forum’s support to the Board and the Commission and\nwhether the Panel’s specialised GPAI expertise could benefit these entities.",
+    "source": "semantic",
+    "offset": 312
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_313",
+    "text": "If the\noverarching aim of the AIA’s governance structure is to secure impartial and external\nfeedback for the comprehensive implementation and enforcement, then such support\nshould be accessible to all EU institutional bodies involved – namely, the Commission and\nits Office – as well as to Member States, whether through the Board or their respective\nnational authorities.",
+    "source": "semantic",
+    "offset": 313
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_314",
+    "text": "While it might be argued that the AI Office’s participation in Board\nmeetings is an indirect channel for the Panel’s expertise to influence broader discussions,\nthis arrangement is not entirely satisfactory.",
+    "source": "semantic",
+    "offset": 314
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_315",
+    "text": "The indirect nature of this influence means\nthat the Panel’s specialised opinions could become less impactful, especially since the AI\nOffice’s contributions to the Board’s meetings lack formal voting power, which could\nfurther dilute the Panel’s input.",
+    "source": "semantic",
+    "offset": 315
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_316",
+    "text": "In any case, the fact that the Panel’s insights are indirectly\npresented to the Board is an a fortiori argument against the continued separation of the\nAdvisory Forum and the Scientific Panel.",
+    "source": "semantic",
+    "offset": 316
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_317",
+    "text": "If the separation was meant to distinguish the\n28 R Boardman, “Key Takeaways from the Irish DPC and EDPB Decisions on Facebook Data Transfers, DPC\nDecision, EU User Data” Bird&Bird (23 May 2023) <https://www.twobirds.com/en/insights/2023/global/key-ta\nkeaways-from-the-irish-dpc-and-edpb-decisions-on-facebook-data-transfers> (accessed 29 March 2024).",
+    "source": "semantic",
+    "offset": 317
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_318",
+    "text": "16\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 318
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_319",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\ntypes of support provided by each entity, indirect participation blurs these lines.",
+    "source": "semantic",
+    "offset": 319
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_320",
+    "text": "This topic\nwill be expanded upon in section VI.",
+    "source": "semantic",
+    "offset": 320
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_321",
+    "text": "V. National authorities: Notifying authorities, notified bodies, and market\nsurveillance authorities\nSupranational authorities have an essential role, but the effective implementation and\nenforcement of this Regulation frequently require a local presence, placing the\nresponsibility primarily on Member States.",
+    "source": "semantic",
+    "offset": 321
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_322",
+    "text": "Each is expected to set up at least one\nnotifying authority responsible for compliance and certification processes and one market\nsurveillance authority to verify that products meet EU harmonisation legislation standards\nfor safety, health, and environmental protection as outlined in Regulation (EU) 2019/\n1020.29 Both authorities are also encouraged to guide compliance to SMEs and start-ups,\nconsidering any relevant recommendations from the Board and the Commission (Chapter\nVII, Section 2 AIA).",
+    "source": "semantic",
+    "offset": 322
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_323",
+    "text": "The AIA mandates that national authorities must have permanently available staff with\nexpertise in AI, data protection, cybersecurity, fundamental rights, health and safety, and\nrelevant standards and laws.30 Member States must assess and report this adequacy to the\nCommission every two years (Article 70 AIA).",
+    "source": "semantic",
+    "offset": 323
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_324",
+    "text": "Such a requirement illustrates how EU policy\nregulations can include an organiaational component that interacts with the historical\nprerogatives of national governments to structure the state apparatus at its own will\n(“administrative sovereignty”).",
+    "source": "semantic",
+    "offset": 324
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_325",
+    "text": "In this context, Member States have the flexibility to design their governance\nstructures for AI regulation: they can either establish new regulatory bodies dedicated to\nAI or integrate these oversight responsibilities into existing entities, like national Data\nProtection Authorities, within their legal frameworks.",
+    "source": "semantic",
+    "offset": 325
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_326",
+    "text": "The autonomy of Member States in\nthis context enables them to delegate tasks to the most suitable public organisations, as\ndiscussed above (Part II.b)).",
+    "source": "semantic",
+    "offset": 326
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_327",
+    "text": "V.1.",
+    "source": "semantic",
+    "offset": 327
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_328",
+    "text": "Notifying authority and notified bodies\nNotifying authorities are national entities established by each Member State to evaluate,\ndesignate, and recognise conformity assessment bodies and oversee their activities (Article\n28 AIA). Entities seeking to perform conformity assessments under the AIA must apply to the\nnotifying authority in their Member State or a third country, providing a detailed\ndescription of their assessment activities, used modules, AI systems competencies, and an\naccreditation certificate from a national body.",
+    "source": "semantic",
+    "offset": 328
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_329",
+    "text": "Once an applicant is verified to meet all\ncriteria, the notifying authority endorses it as a notified body, officially recognised to\nevaluate AI system conformity before market release.",
+    "source": "semantic",
+    "offset": 329
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_330",
+    "text": "Notifying authorities oversee these\nbodies impartially, are prohibited from engaging in assessment activities to avoid conflicts\nof interest, and can restrict, suspend, or withdraw a body’s status if it fails to meet\nobligations.",
+    "source": "semantic",
+    "offset": 330
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_331",
+    "text": "Notified bodies are responsible for impartially and confidentially assessing high-risk AI\nsystems.",
+    "source": "semantic",
+    "offset": 331
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_332",
+    "text": "They ensure that these meet regulatory standards and possess the necessary\nexpertise, including for outsourced work.",
+    "source": "semantic",
+    "offset": 332
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_333",
+    "text": "They have the right to unrestricted access to\nrelevant datasets and may request additional testing to confirm compliance.",
+    "source": "semantic",
+    "offset": 333
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_334",
+    "text": "Upon a\n29 This Regulation’s market surveillance targets products under Union harmonisation listed in Annex I,\nexcluding food, feed, medicines, live plants and animals, and reproduction-related products.",
+    "source": "semantic",
+    "offset": 334
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_335",
+    "text": "30 The operational details for notifying authorities and notified bodies are specified in Chapter 4, Title III of the\nAIA, and guidelines for notifying and market surveillance authorities are in Title VI, Chapter 2 (‘Governance’).",
+    "source": "semantic",
+    "offset": 335
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_336",
+    "text": "European Journal of Risk Regulation\n17\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nsatisfactory assessment, they issue an EU technical documentation assessment certificate,\nvalid for up to five years, depending on the AI system category.",
+    "source": "semantic",
+    "offset": 336
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_337",
+    "text": "Notified bodies must justify\ntheir certification decisions, which can be appealed by providers, and are required to\ninform authorities about their certification decisions and significant operational changes,\nfostering transparency and accountability in the AI certification process.",
+    "source": "semantic",
+    "offset": 337
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_338",
+    "text": "The regulatory framework governing the structure and operations of notifying\nauthorities and notified bodies looks robust.",
+    "source": "semantic",
+    "offset": 338
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_339",
+    "text": "It is also, to an extent, tried and tested as\nnotified bodies of the European Medicines Agency are also accredited to conduct\nconformity assessments for medical devices.",
+    "source": "semantic",
+    "offset": 339
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_340",
+    "text": "However, it still falls short in terms of\nspecificity, particularly regarding the mechanisms to ensure their impartiality and\nprevent conflicts of interest (also indirect ones).",
+    "source": "semantic",
+    "offset": 340
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_341",
+    "text": "Impartiality is crucial for upholding the\nintegrity of the conformity assessment process.",
+    "source": "semantic",
+    "offset": 341
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_342",
+    "text": "The AIA stipulates that notifying\nauthorities must be organised and function to avoid conflicts of interest with conformity\nassessment bodies (Article 30 AIA).",
+    "source": "semantic",
+    "offset": 342
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_343",
+    "text": "However, it lacks detailed guidance on the\nimplementation of such measures.",
+    "source": "semantic",
+    "offset": 343
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_344",
+    "text": "It does not explicitly designate who is responsible\nfor enforcing these requirements – as instead does with the AI Office for the Scientific\nPanel (Article 68 AIA) – particularly regarding establishing effective oversight mechanisms\nlike regular audits.",
+    "source": "semantic",
+    "offset": 344
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_345",
+    "text": "While the supervision conducted by accreditation bodies does provide\nsome level of oversight, focusing mainly on the competence and compliance with quality\nstandards (such as ISO) of the notified bodies, these controls may not be comprehensive\nenough.",
+    "source": "semantic",
+    "offset": 345
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_346",
+    "text": "They tend to concentrate on these bodies’ technical competencies and quality\nmanagement systems rather than addressing the broader issues of ensuring impartiality\nand avoiding conflicts of interest.",
+    "source": "semantic",
+    "offset": 346
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_347",
+    "text": "Literature raises two main concerns about notified bodies.",
+    "source": "semantic",
+    "offset": 347
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_348",
+    "text": "First, there is a lack of\norganisational and operational transparency, a situation worsened by these bodies\nfrequently outsourcing their tasks.31 Second, there are significant concerns about the\nneutrality of these notified bodies due to their financial relationships with AI providers.",
+    "source": "semantic",
+    "offset": 348
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_349",
+    "text": "These relationships, which can involve fees or commissions, might compromise their\ndecision-making, casting doubt on their ability to regulate effectively.32\nAnother critical aspect requiring attention is the coordination among notified bodies\n(Article 38 AIA) to prevent divergent interpretations and applications of EU directives and\nregulations by Member States.",
+    "source": "semantic",
+    "offset": 349
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_350",
+    "text": "Divergences could lead to inconsistencies in how notified\nbodies are designated and monitored in different jurisdictions.",
+    "source": "semantic",
+    "offset": 350
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_351",
+    "text": "This situation echoes\nchallenges observed in other sectors, such as healthcare, where drugs and devices not\napproved in one region may seek approval in another.",
+    "source": "semantic",
+    "offset": 351
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_352",
+    "text": "Ultimately, “conformity shopping”\nmust be prevented.",
+    "source": "semantic",
+    "offset": 352
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_353",
+    "text": "Thus, refining and clarifying the regulations concerning the\nimpartiality and oversight of notified bodies is a critical challenge that the existing\nregulatory framework needs to address more thoroughly.",
+    "source": "semantic",
+    "offset": 353
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_354",
+    "text": "V.2.",
+    "source": "semantic",
+    "offset": 354
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_355",
+    "text": "Market surveillance authority\nUnder the AIA, Member States are mandated to appoint a specific Market Surveillance\nAuthority (MSA) to serve as a single point of contact (Art.",
+    "source": "semantic",
+    "offset": 355
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_356",
+    "text": "70 AIA) and to communicate the\ndesignated point of contact to the Commission.",
+    "source": "semantic",
+    "offset": 356
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_357",
+    "text": "Following this, the Commission will\nprovide a list of the single points of contact available to the public.",
+    "source": "semantic",
+    "offset": 357
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_358",
+    "text": "In the EU, market surveillance ensures that products meet health and safety standards,\nsupporting consumer protection and fair competition through inspections, document\n31 J-P Galland, “The Difficulties of Regulating Markets and Risks in Europe through Notified Bodies” (2013)\n4 European Journal of Risk Regulation 365.",
+    "source": "semantic",
+    "offset": 358
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_359",
+    "text": "32 A Cefaliello and M Kullmann, “Offering False Security: How the Draft Artificial Intelligence Act Undermines\nFundamental Workers Rights” (2022) 13 European Labour Law Journal 542.",
+    "source": "semantic",
+    "offset": 359
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_360",
+    "text": "18\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 360
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_361",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nreviews, and compliance tests.",
+    "source": "semantic",
+    "offset": 361
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_362",
+    "text": "An EU-wide product compliance network facilitates\nadherence to standards by encouraging collaboration and information sharing among\nMember States and customs authorities to uphold product safety and integrity.33\nUnder the AIA, MSAs have enhanced powers to oversee high-risk AI systems,\nparticularly those used in law enforcement.",
+    "source": "semantic",
+    "offset": 362
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_363",
+    "text": "These powers include accessing processed\npersonal data, relevant information, and, if necessary, AI system source codes to verify\ncompliance.",
+    "source": "semantic",
+    "offset": 363
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_364",
+    "text": "MSAs can also bypass standard assessment procedures under exceptional\ncircumstances, such as threats to public security or health, and are involved in real-world\ntesting, managing incident reports, and enforcing risk mitigation measures for compliant\nAI systems that still pose public threats.",
+    "source": "semantic",
+    "offset": 364
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_365",
+    "text": "The Commission coordinates these efforts through\nthe AI Office.",
+    "source": "semantic",
+    "offset": 365
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_366",
+    "text": "MSAs act as central contact points for administrative and public inquiries\nfacilitated by the EUGO network within the digital e-government platform framework.",
+    "source": "semantic",
+    "offset": 366
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_367",
+    "text": "Furthermore, Market Surveillance Authorities (MSAs) are tasked with liaising with\nnational public authorities responsible for ensuring compliance with Union laws that\nprotect fundamental rights, including non-discrimination principles, such as national data\nprotection authorities.",
+    "source": "semantic",
+    "offset": 367
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_368",
+    "text": "The AIA grants these authorities the right to demand and access\nany relevant documentation maintained under the regulation in a format that is accessible\nand comprehensible (Article 77 AIA).",
+    "source": "semantic",
+    "offset": 368
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_369",
+    "text": "The right to access must be granted when these\nauthorities must effectively carry out their duties within their legal scope.",
+    "source": "semantic",
+    "offset": 369
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_370",
+    "text": "When such\ndocumentation is requested, the relevant public authority or body must notify the\ncorresponding MSA in the Member State involved.",
+    "source": "semantic",
+    "offset": 370
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_371",
+    "text": "A key question regarding MSAs is their institutional design.",
+    "source": "semantic",
+    "offset": 371
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_372",
+    "text": "Article 70 of the AIA allows\nMember States flexibility in establishing or integrating new authorities into existing ones.",
+    "source": "semantic",
+    "offset": 372
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_373",
+    "text": "In practice, the design choice may be contingent on pre-existing administrative structures\nof MSAs (see Part 2b).",
+    "source": "semantic",
+    "offset": 373
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_374",
+    "text": "Currently, EU Member States possess various authorities categorised\nby sector (e.g., Medical Devices, Construction Products, Motor Vehicles) listed on the\nCommission portal.34 One approach to minimise the creation of new authorities would\nbe establishing dedicated sub-sections within existing MSAs, granting them exclusive\ncompetence over AI used in their specific sectors.",
+    "source": "semantic",
+    "offset": 374
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_375",
+    "text": "However, this strategy might not be\nsufficient in the long run.",
+    "source": "semantic",
+    "offset": 375
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_376",
+    "text": "Considering the anticipated growth in AI functionalities and (EU)\nlegislation, a dedicated MSA for AI products and services will likely be more appropriate,\nwith the three options discussed above ranging from an entirely new agency to a\n“competence center” within an existing one (Part 2b).",
+    "source": "semantic",
+    "offset": 376
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_377",
+    "text": "The AIA also remains unclear on whether users or third parties negatively impacted by\nAI systems will have the right to complain to MSAs.",
+    "source": "semantic",
+    "offset": 377
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_378",
+    "text": "The GDPR grants individuals the right\nto file complaints and seek judicial remedies against supervisory authorities.",
+    "source": "semantic",
+    "offset": 378
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_379",
+    "text": "The absence\nof a similar right for AI-related grievances under the AIA would undermine its safeguard of\naccess to justice.35\nAnother critical aspect regards the need for harmonisation among various MSAs, with a\nspecific concern about disparities in resource allocation by Member States.",
+    "source": "semantic",
+    "offset": 379
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_380",
+    "text": "The AIA\nunderscores the importance of equipping national competent authorities with sufficient\ntechnical, financial, and human resources (Article 70(3) AIA).",
+    "source": "semantic",
+    "offset": 380
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_381",
+    "text": "However, discrepancies in the\nprovision of these resources across Member States can lead to uneven enforcement and\noversight, with implications for market growth and innovation.",
+    "source": "semantic",
+    "offset": 381
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_382",
+    "text": "A prime example of this is\n33 Regulation (EU) 2019/1020 is the cornerstone of the legal framework governing market surveillance authorities\nin the European Union.",
+    "source": "semantic",
+    "offset": 382
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_383",
+    "text": "It replaces the earlier market surveillance provisions outlined in Regulation (EC) No 765/\n2008.",
+    "source": "semantic",
+    "offset": 383
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_384",
+    "text": "However, other relevant regulations also play a part, such as Decision 768/2008/EC and Directive 2001/95/EC.",
+    "source": "semantic",
+    "offset": 384
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_385",
+    "text": "34 https://single-market-economy.ec.europa.eu/single-market/goods/building-blocks/market-surveillance/\norganisation_en.",
+    "source": "semantic",
+    "offset": 385
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_386",
+    "text": "35 M Fink, “The EU Artificial Intelligence Act and Access to Justice” <https://hdl.handle.net/1887/3180727>\n(accessed 30 April 2024).",
+    "source": "semantic",
+    "offset": 386
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_387",
+    "text": "European Journal of Risk Regulation\n19\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nthe potential delay in product investigations.",
+    "source": "semantic",
+    "offset": 387
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_388",
+    "text": "A lack of sufficient resources at MSAs can\nsignificantly slow the regulatory oversight of emerging AI technologies.",
+    "source": "semantic",
+    "offset": 388
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_389",
+    "text": "For start-ups and\ncompanies driven by innovation, the speed at which they can enter the market is crucial.",
+    "source": "semantic",
+    "offset": 389
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_390",
+    "text": "Against this background, it is necessary to strengthen existing coordination\nmechanisms within the EU, such as the EU Product Compliance Network (EUPCN),\nestablished by the Market Surveillance Regulation (2019/1020). Comprising representa-\ntives from each EU country, the EUPCN aims to facilitate the identification of shared\npriorities for market surveillance activities and the cross-sectoral exchange of information\non product evaluations.",
+    "source": "semantic",
+    "offset": 390
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_391",
+    "text": "This includes risk assessment, testing methods and outcomes, and\nother factors pertinent to control activities.",
+    "source": "semantic",
+    "offset": 391
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_392",
+    "text": "It also focuses on the execution of national\nmarket surveillance strategies and actions.",
+    "source": "semantic",
+    "offset": 392
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_393",
+    "text": "Such enhanced coordination is vital for\nmitigating disparities in resource availability and ensuring a more uniform approach to\nthe regulation and oversight of AI technologies across the EU.",
+    "source": "semantic",
+    "offset": 393
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_394",
+    "text": "To conclude this section, in\nFigure 1, we provide a visual representation to delineate the principal genetic (indicated\nby a bold line) and functional (represented by a thin line) connections among the\ninstitutional entities engaged in executing and enforcing the AIA.",
+    "source": "semantic",
+    "offset": 394
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_395",
+    "text": "VI.",
+    "source": "semantic",
+    "offset": 395
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_396",
+    "text": "Towards simplified and robust governance: recommendations\nBuilding on this analysis, we envision several important updates that should be made to\nthe governance structure of the AI Act.",
+    "source": "semantic",
+    "offset": 396
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_397",
+    "text": "VI.1.",
+    "source": "semantic",
+    "offset": 397
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_398",
+    "text": "Clarifying the institutional design of the AI Office\nGiven the broad spectrum of tasks anticipated for the AI Office – from evaluating GPAIS’\ncapabilities to assisting in creating regulatory sandboxes – more detailed organisational\nguidance seems needed to identify its institutional design.",
+    "source": "semantic",
+    "offset": 398
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_399",
+    "text": "Additionally, the mandate for\nthe AI Office to “involve independent experts to carry out evaluations on its behalf”\n(Recital 164 AIA) lacks specificity concerning the criteria for selecting these experts.",
+    "source": "semantic",
+    "offset": 399
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_400",
+    "text": "A more structured approach, similar to the UK’s model for health technology assessments\nFigure 1.",
+    "source": "semantic",
+    "offset": 400
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_401",
+    "text": "Supranational and national bodies involved in the implementation and enforcement of the AIA.",
+    "source": "semantic",
+    "offset": 401
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_402",
+    "text": "20\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 402
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_403",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nwhere the National Institute for Health and Care Excellence (NICE) sets precise criteria for\nevidence evaluation and commissions independent reviews from entities like the Cochrane\nCollaborative, could inform the AI Office’s procedures.",
+    "source": "semantic",
+    "offset": 403
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_404",
+    "text": "This model, supported by\ngovernment funding, provides a structured and standardised method that could inform\nthe AI Office’s procedures to ensure its effectiveness in fulfilling its diverse responsibilities.",
+    "source": "semantic",
+    "offset": 404
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_405",
+    "text": "Another critical consideration is the potential impact of integrating the AI Office within\nthe overarching framework of the Commission, which may obscure its operational\ntransparency.",
+    "source": "semantic",
+    "offset": 405
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_406",
+    "text": "Concern stems from the obligation to adhere to the Commission’s general\npolicies on communication and confidentiality.",
+    "source": "semantic",
+    "offset": 406
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_407",
+    "text": "For example, the right to public access to\nCommission documents, governed by Regulation (EC) No 1049/2001, includes numerous\nexceptions that could impede the release of documents related to the AI Office.",
+    "source": "semantic",
+    "offset": 407
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_408",
+    "text": "One such\nexception allows EU institutions to deny access to records if it would compromise the\n“[ : : : ] commercial interests of a natural or legal person, including intellectual property,”\na broadly defined provision lacking specific, enforceable limits.",
+    "source": "semantic",
+    "offset": 408
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_409",
+    "text": "To mitigate this risk,\napplying a narrower interpretation of these exceptions to the AI Office would align with\nrecent trends in the case law of the EU Courts,36 helping to avoid transparency issues\nsimilar to those faced by other EU agencies, such as Frontex.37\nFurthermore, greater clarity regarding the AI Office’s operational autonomy is needed.",
+    "source": "semantic",
+    "offset": 409
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_410",
+    "text": "For example, guidelines delineating its decision-making authority, financial independence\nand engagement capabilities with external parties would be beneficial.",
+    "source": "semantic",
+    "offset": 410
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_411",
+    "text": "As described\npreviously (Recital 14), the call for involving independent experts is a step in the right\ndirection.",
+    "source": "semantic",
+    "offset": 411
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_412",
+    "text": "Still, detailed criteria for expert selection and involvement are required to\nensure transparency and efficacy in its evaluation and advisory roles.",
+    "source": "semantic",
+    "offset": 412
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_413",
+    "text": "An alternative, potentially more effective approach would be establishing the AI Office\nas a decentralised agency with its legal identity, like the EFSA and the EMA.",
+    "source": "semantic",
+    "offset": 413
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_414",
+    "text": "Decentralisation, designed for pivotal sectors within the single market, would endow\nthe AI Office with enhanced autonomy, including relative freedom from political agendas\nat the Commission level, a defined mission, executive powers, and the authority to issue\nbinding decisions, albeit with options for appeal and judicial scrutiny.",
+    "source": "semantic",
+    "offset": 414
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_415",
+    "text": "Such an\norganisational shift would likely boost the AI Office’s independence from the\nCommission and the broader EU institutional matrix, positioning it as a key player in\nAI governance.",
+    "source": "semantic",
+    "offset": 415
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_416",
+    "text": "However, this change could lead to agency drift, where operations by the AI\nOffice conflict with the wishes or strategies of the Commission.",
+    "source": "semantic",
+    "offset": 416
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_417",
+    "text": "However, empirical\nevidence suggests that the main interlocutors of EU agencies are “parent” Commission\nDGs.",
+    "source": "semantic",
+    "offset": 417
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_418",
+    "text": "Therefore, despite adopting a decentralised agency format, the AI Office will likely\nsustain a strong relationship with the Commission.38 Empirical studies suggest that one\neffective mitigation strategy against agency drift is establishing organisational units\nwithin the Commission that duplicate or overlap those of the agency.39 This increases the\norganisational capacities and expertise within the Commission to oversee and control\nthe agency.",
+    "source": "semantic",
+    "offset": 418
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_419",
+    "text": "The decentralised alternative still carries inherent risks and challenges.",
+    "source": "semantic",
+    "offset": 419
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_420",
+    "text": "A notable\nconcern is the potential for the AI Office to become somewhat isolated from the rest of the\nEU institutional ecosystem, which could undermine the effectiveness of its supervision and\ndiminish the capacity for cohesive, EU-wide responses and strategies concerning AI\n36 A Marcoulli and L Cappelletti, “Recent Trends and Developments in the Case Law of EU Courts on Access to\nDocuments” (2023) 23 ERA Forum 477.",
+    "source": "semantic",
+    "offset": 420
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_421",
+    "text": "37 L Salzano and M Gkliati, “Mysteriousness by Design: The Case of Frontex and the Regulation on Public Access\nto Documents” (30 September 2023) <https://papers.ssrn.com/abstract=4588534> (accessed 23 February 2024).",
+    "source": "semantic",
+    "offset": 421
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_422",
+    "text": "38 Egeberg and Trondal (n 5).",
+    "source": "semantic",
+    "offset": 422
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_423",
+    "text": "39 M Egeberg and J Trondal, “Political Leadership and Bureaucratic Autonomy: Effects of Agencification” (2009)\n22 Governance 673.",
+    "source": "semantic",
+    "offset": 423
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_424",
+    "text": "European Journal of Risk Regulation\n21\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nregulation.",
+    "source": "semantic",
+    "offset": 424
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_425",
+    "text": "A similar concern is the potential for this isolation to be used strategically to\nlimit workload by, for example, declaring only “pure AI” within the AI Office’s remit and\nany AI tool embedded or interacting with non-AI components outside of scope.",
+    "source": "semantic",
+    "offset": 425
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_426",
+    "text": "Moreover,\nthis structure amplifies concerns related to “agencification,” a term critics use to describe\nthe risks of granting regulatory bodies excessive but not complete autonomy in practice\nsince these are agencies designed as units subordinated to ministry-like institutions in\ngovernment systems.",
+    "source": "semantic",
+    "offset": 426
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_427",
+    "text": "Such autonomy could lead to their actions diverging from, or\ncomplicating, the EU’s overarching objectives and governance frameworks.",
+    "source": "semantic",
+    "offset": 427
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_428",
+    "text": "Critics argue\nthat this could result in a democratic legitimacy deficit or undermine the principles that\nguide how the EU operates and delegates its powers.40 To mitigate the risks associated with\nagencification, implementing more robust ex-ante and ex-post evaluation mechanisms for\nagency performance is advisable (as we suggest in recommendation (d)).",
+    "source": "semantic",
+    "offset": 428
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_429",
+    "text": "These\nevaluations, maybe conducted periodically by the European Commission, would assess\nthe impact of agency actions and regulations, ensuring alignment with EU objectives and\nprinciples.",
+    "source": "semantic",
+    "offset": 429
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_430",
+    "text": "A complimentary, or alternative, mitigation strategy would be to establish\norganisational duplication and overlap within the Commission, as outlined above.",
+    "source": "semantic",
+    "offset": 430
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_431",
+    "text": "VI.2.",
+    "source": "semantic",
+    "offset": 431
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_432",
+    "text": "Integrating the Forum and the Panel into a single body\nThe first point concerns the institutional framework of the advisory bodies and\nstakeholder representation in them.",
+    "source": "semantic",
+    "offset": 432
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_433",
+    "text": "As anticipated, there is potential for consolidating the\nPanel and the Forum into a singular entity.",
+    "source": "semantic",
+    "offset": 433
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_434",
+    "text": "Integrating them would reduce duplications\nand bolster the deliberation process before reaching a decision.",
+    "source": "semantic",
+    "offset": 434
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_435",
+    "text": "A combined entity would\nmerge the diverse knowledge bases of civil society, the business sector, and the academic\ncommunity, promoting inclusive and reflective discussions of the needs identified by the\nCommission and Member States.",
+    "source": "semantic",
+    "offset": 435
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_436",
+    "text": "A unified entity combining the Advisory Forum’s\nextensive stakeholder engagement with the Scientific Panel’s specialised, independent\nexpertise could significantly improve the quality of advice to the Board, the Office, and\nother EU institutions or agencies.",
+    "source": "semantic",
+    "offset": 436
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_437",
+    "text": "The unified entity would ensure that the guidance\nreflects both the technical complexities and societal implications of AI and challenges the\nbelief that GPAI necessitates fundamentally different knowledge from other AI systems.",
+    "source": "semantic",
+    "offset": 437
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_438",
+    "text": "Subcommittees or working groups could help avoid the risk of this unified body becoming\noverburdened or diluting specific expertise within a larger group.",
+    "source": "semantic",
+    "offset": 438
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_439",
+    "text": "Should merging the Advisory Forum and the Scientific Panel prove infeasible, an\nalternative solution could be to better coordinate their operations, for example, through\nclear separations of scopes, roles, and tasks, but unified reporting.",
+    "source": "semantic",
+    "offset": 439
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_440",
+    "text": "While not as ideal as a\ncomplete merger, this approach could streamline the reporting process by creating a\ncommon framework for both groups to communicate their findings and recommendations.",
+    "source": "semantic",
+    "offset": 440
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_441",
+    "text": "This might entail producing a joint annual report consolidating contributions from the\nForum and the Panel, thereby cutting administrative overlap and ensuring a more unified\nadvisory voice to the Commission, the Board, and the Member States.",
+    "source": "semantic",
+    "offset": 441
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_442",
+    "text": "Merging or enhancing coordination between the Advisory Forum and Scientific\nPanel, complemented by creating subcommittees, favors robust governance of the AIA by\nstreamlining advisory roles for agility and innovation, also in response to disruptive\ntechnological changes.",
+    "source": "semantic",
+    "offset": 442
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_443",
+    "text": "40 M Scholten and M van Rijsbergen, “The Limits of Agencification in the European Union” (2014) 15 German\nLaw Journal 1223; M Chamon, “Setting the Scene: EU Agencies, Agencification, and the EU Administration” in M\nChamon (ed), EU Agencies: Legal and Political Limits to the Transformation of the EU Administration (Oxford University\nPress 2016) <https://doi.org/10.1093/acprof:oso/9780198784487.003.0002> accessed 29 January 2024; A Koene\nand others, “A Governance Framework for Algorithmic Accountability and Transparency” <https://nottingham-\nrepository.worktribe.com/index.php/output/3979928/a-governance-framework-for-algorithmic-accountability-\nand-transparency> (accessed 3 February 2022).",
+    "source": "semantic",
+    "offset": 443
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_444",
+    "text": "22\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 444
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_445",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nVI.3.",
+    "source": "semantic",
+    "offset": 445
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_446",
+    "text": "Coordinating overlapping EU entities: the case for an AI Coordination Hub\nAs AI technologies proliferate across the EU, collaboration among various regulatory\nentities becomes increasingly critical, especially when introducing new AI applications\nintersects with conflicting interests.",
+    "source": "semantic",
+    "offset": 446
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_447",
+    "text": "A case in point is the independent decision by Italy’s\ndata protection authority, ‘Garante per la privacy’, to suspend ChatGPT, a move not\nmirrored by other data protection entities within the EU.41 The scope for such overlaps is\nnot limited to national data protection authorities but extends to other entities, such as\ndecentralised agencies, including the European Data Protection Board (EDPB), the\nEuropean Union Agency for Cybersecurity (ENISA), the Fundamental Rights Agency (FRA),\nthe European Medicines Agency (EMA), the European Banking Authority (EBA), and the\nEuropean Union Intellectual Property Office (EUIPO).",
+    "source": "semantic",
+    "offset": 447
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_448",
+    "text": "The likelihood of overlaps and\ninterferences with the constellation of bodies now introduced by the AIA – e.g., the Office,\nthe Board, the Forum, etc.",
+    "source": "semantic",
+    "offset": 448
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_449",
+    "text": "– is high.",
+    "source": "semantic",
+    "offset": 449
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_450",
+    "text": "In light of these challenges, it becomes crucial to incorporate efficient coordination\nmechanisms within the EU’s legislative framework.",
+    "source": "semantic",
+    "offset": 450
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_451",
+    "text": "Enhancing the functionality of the\nexisting EU Agency Network42, to foster a collaborative environment and act as a unified\npoint of communication for all EU agencies and Joint Undertakings (JUs) on multifaceted\nissues, would mark a significant advancement.",
+    "source": "semantic",
+    "offset": 451
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_452",
+    "text": "However, establishing a centralised\nplatform, the European Union Artificial Intelligence Coordination Hub (EU AICH), emerges\nas a compelling alternative.",
+    "source": "semantic",
+    "offset": 452
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_453",
+    "text": "This hub would convene all pertinent bodies involved in AI\nregulation and oversight, facilitating collective decision-making.",
+    "source": "semantic",
+    "offset": 453
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_454",
+    "text": "Establishing such a hub\npromises to elevate significantly the uniformity of AIA enforcement, improve operational\nefficiency, and reduce inconsistencies in treating similar matters.",
+    "source": "semantic",
+    "offset": 454
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_455",
+    "text": "VI.4.",
+    "source": "semantic",
+    "offset": 455
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_456",
+    "text": "Control of AI misuse at the EU level\nThe AI Board’s lack of authority to revise or address decisions made by national\nauthorities, in contrast to the European Data Protection Board’s role under GDPR, creates a\nsignificant gap in ensuring consistent AI regulation across the EU.",
+    "source": "semantic",
+    "offset": 456
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_457",
+    "text": "This deficiency could\nresult in divergent interpretations and applications of the AIA, similar to the challenges\nobserved with the GDPR, particularly in cases such as the Irish Data Protection\nCommission’s oversight of major tech firms.",
+    "source": "semantic",
+    "offset": 457
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_458",
+    "text": "Such inconsistencies are concerning,\nespecially regarding the AIA’s restrictions on surveillance tools, including facial\nrecognition technologies.",
+    "source": "semantic",
+    "offset": 458
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_459",
+    "text": "Without the ability to correct or harmonise national decisions,\nthere’s a heightened risk that AI could be misused in some Member States, potentially\nfacilitating the establishment of illiberal surveillance regimes, and stifling legitimate\ndissent.",
+    "source": "semantic",
+    "offset": 459
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_460",
+    "text": "This scenario underscores the need for a mechanism within the AI Board to ensure\nuniform law enforcement and prevent AI’s abusive applications, especially in sensitive\nareas like biometric surveillance.",
+    "source": "semantic",
+    "offset": 460
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_461",
+    "text": "VI.5.",
+    "source": "semantic",
+    "offset": 461
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_462",
+    "text": "Learning mechanisms\nGiven their capacity for more rapid development and adjustment, the agility of\nnon-legislative acts presents an opportunity for responsive governance in AI.",
+    "source": "semantic",
+    "offset": 462
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_463",
+    "text": "However,\nthe agility of the regulatory framework must be matched by the regulatory bodies’\n41 Instead, following a request from Noyb, the European Center for Digital Rights, the Austrian Data Protection\nAgency is set to examine GDPR compliance issues related to ChatGPT, focusing particularly on its tendency to\ngenerate inaccurate information.",
+    "source": "semantic",
+    "offset": 463
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_464",
+    "text": "Noyb, “ChatGPT provides false information about people, and OpenAI can’t\ncorrect it”, Noyb blog (29 April 2024), https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-\nopenai-cant-correct-it.",
+    "source": "semantic",
+    "offset": 464
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_465",
+    "text": "42 https://agencies-network.europa.eu/index_en.",
+    "source": "semantic",
+    "offset": 465
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_466",
+    "text": "European Journal of Risk Regulation\n23\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nadaptability.",
+    "source": "semantic",
+    "offset": 466
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_467",
+    "text": "Inter- and intra-agency learning and collaboration mechanisms are essential\nfor addressing AI’s multifaceted technical and social challenges.43 This approach should\nfacilitate continuous improvement and adaptation of regulatory practices to ensure they\nremain effective in guiding and governing AI technologies’ legal and safe development and\ndeployment.",
+    "source": "semantic",
+    "offset": 467
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_468",
+    "text": "To this end, specific ex-ante and ex-post review obligations of the Office’s and\nBoard’s actions and recommendations could be introduced.",
+    "source": "semantic",
+    "offset": 468
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_469",
+    "text": "More importantly, a dedicated\nunit, for example, within the AI Office, should be tasked with identifying best and worst\npractices across all involved entities (from the Office to the Forum).",
+    "source": "semantic",
+    "offset": 469
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_470",
+    "text": "Liaising with Member\nState competence centers, such a unit could become a hub for institutional and individual\nlearning and refinement of AI, within and beyond the AIA framework.",
+    "source": "semantic",
+    "offset": 470
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_471",
+    "text": "VI.6.",
+    "source": "semantic",
+    "offset": 471
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_472",
+    "text": "(Near) future challenges\nIn this paper, we have primarily focused on the structural design of the AIA’s institutional\nframework.",
+    "source": "semantic",
+    "offset": 472
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_473",
+    "text": "However, in the near future, additional challenges will likely arise concerning\nthe interplay between the AIA and other national and international AI regulations.",
+    "source": "semantic",
+    "offset": 473
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_474",
+    "text": "At the\nEU level, effective enforcement of the AIA will require careful coordination, particularly in\nlight of potential overlaps with implementing other frameworks, such as the GDPR, DMA,\nand DSA, which are frequently overseen by specialised regulatory authorities.",
+    "source": "semantic",
+    "offset": 474
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_475",
+    "text": "Internationally, the need for alignment is equally pressing.",
+    "source": "semantic",
+    "offset": 475
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_476",
+    "text": "For instance, how will the\nAIA’s implementation bodies coordinate with those established under US or Chinese\nlegislation?",
+    "source": "semantic",
+    "offset": 476
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_477",
+    "text": "China has enacted several targeted AI regulations, including those explicitly\naddressing Generative AI.44 By contrast, the United States currently lacks a formal AI\ngovernance model, as the existing legal framework (Biden’s Executive Order) has limited\nscope and enforcement mechanisms.45 However, it is expected that more stringent federal\n(e.g., on deep fakes) and state-level legislation (e.g., the California AI Bill) will follow, likely\nleading to the creation of new governance structures and implementation authorities.",
+    "source": "semantic",
+    "offset": 477
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_478",
+    "text": "Diverging state-level rules may, in fact, result in a problematic patchwork even within the\nUS, making alignment with the AIA even trickier.",
+    "source": "semantic",
+    "offset": 478
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_479",
+    "text": "Given the United States’ dominance of the AI market, the actions of these US authorities\nwill inevitably influence the operations of their EU counterparts.",
+    "source": "semantic",
+    "offset": 479
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_480",
+    "text": "Therefore, to foster\nconstructive collaboration and avoid uncritical emulation, different nation-states and\nsupranational bodies must establish shared objectives and encourage active participation\nin international forums regarding AI governance, such as the OECD AI Policy Observatory.",
+    "source": "semantic",
+    "offset": 480
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_481",
+    "text": "Such collaboration will help ensure a consistent and effective approach to AI regulation\nacross jurisdictions.",
+    "source": "semantic",
+    "offset": 481
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_482",
+    "text": "Additionally, the emergence of transnational and international legal documents on AI,\nsuch as the Council of Europe’s Framework Convention on Artificial Intelligence, raises\nfurther considerations.",
+    "source": "semantic",
+    "offset": 482
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_483",
+    "text": "The Convention, drafted by the forty-six Member States of the\nCouncil of Europe, along with observer states like the United States, Canada and Japan will\nbe the first-ever international legally binding treaty in this field.",
+    "source": "semantic",
+    "offset": 483
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_484",
+    "text": "It will be crucial to\nestablish a mechanism for interaction between the implementation structures of the AIA\nand those of the Convention, which includes a follow-up mechanism, the Conference of the\nParties.",
+    "source": "semantic",
+    "offset": 484
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_485",
+    "text": "This body, composed of official representatives of the Convention’s Parties,\nperiodically monitors the implementation of the Convention’s provisions (Article 23 of the\n43 Dimitropoulos and Hacker (n 10).",
+    "source": "semantic",
+    "offset": 485
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_486",
+    "text": "44 See, e.g., R Creemers, “The Regulation of Generative AI in China, forthcoming” in P Hacker, A Engel,\nS Hammer, and B Mittelstadt (eds), The Oxford Handbook of the Foundation and Regulation of Generative AI (Oxford\nUniversity Press forthcoming 2024).",
+    "source": "semantic",
+    "offset": 486
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_487",
+    "text": "45 M Wörsdörfer, “Biden’s Executive Order on AI and the E.U.’s AI Act: A Comparative Computer-Ethical\nAnalysis” (2024) 37 Philosophy & Technology 74.",
+    "source": "semantic",
+    "offset": 487
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_488",
+    "text": "24\nClaudio Novelli et al.",
+    "source": "semantic",
+    "offset": 488
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_489",
+    "text": "https://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press\nConvention) and has the authority to resolve disputes between Parties regarding the\ninterpretation or application of the treaty (Article 29 of the Convention).",
+    "source": "semantic",
+    "offset": 489
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_490",
+    "text": "VII.",
+    "source": "semantic",
+    "offset": 490
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_491",
+    "text": "Conclusions\nAn intricate, yet solid foundation for AI governance has been introduced in the AIA. However, this article calls for a forward-looking perspective on AI governance, stressing\nthe importance of anticipatory regulation and the adaptive capabilities of governance\nstructures to keep pace with technological advancements.",
+    "source": "semantic",
+    "offset": 491
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_492",
+    "text": "The article makes five key\nproposals.",
+    "source": "semantic",
+    "offset": 492
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_493",
+    "text": "First, it suggests establishing the AI Office as a decentralised agency like EFSA or\nEMA to enhance its autonomy and reduce potential influences from political agendas at\nthe Commission level.",
+    "source": "semantic",
+    "offset": 493
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_494",
+    "text": "Second, there is potential for consolidating the AI Office’s advisory\nbodies – the Advisory Forum and the Scientific Panel – into a single entity to streamline\ndecision-making and improve the quality of advice; this body would reflect both technical\nand societal implications of AI.",
+    "source": "semantic",
+    "offset": 494
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_495",
+    "text": "Third, the article discusses the need for more coherent\ndecision-making and cooperation among the various EU bodies involved in AI oversight,\nwhich may have overlapped or conflicting jurisdictions.",
+    "source": "semantic",
+    "offset": 495
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_496",
+    "text": "This need could be addressed by\nstrengthening the existing EU Agency Network or creating an EU AI Coordination Hub.",
+    "source": "semantic",
+    "offset": 496
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_497",
+    "text": "Fourth, the lack of authority for the AI Board to revise national decisions could lead to\ninconsistent application of AI regulations across Member States, like issues observed with\nGDPR enforcement.",
+    "source": "semantic",
+    "offset": 497
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_498",
+    "text": "Fifth, to ensure responsive and effective governance of AI\ntechnologies, it proposes introducing mechanisms for continuous learning and adaptation\nwithin the regulatory framework, including a dedicated unit within the AI Office to\nidentify and share best (and worst) practices.",
+    "source": "semantic",
+    "offset": 498
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_499",
+    "text": "The article also calls for simplifying\nregulatory frameworks to aid compliance, especially for SMEs, and underscores the\nimportance of agile regulatory practices capable of adapting to the rapidly evolving AI\nlandscape, ensuring continuous improvement and effective governance.",
+    "source": "semantic",
+    "offset": 499
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_500",
+    "text": "Looking ahead, the outlook for the governance of AI in the EU remains promising and\nchallenging.",
+    "source": "semantic",
+    "offset": 500
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_501",
+    "text": "As AI technologies continue to evolve rapidly, the governance structures\nestablished by the AIA must remain flexible and adaptive, in short robust, to address new\ndevelopments and unforeseen risks.",
+    "source": "semantic",
+    "offset": 501
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_502",
+    "text": "Ongoing research, stakeholder engagement, and\ninternational cooperation will be essential in refining and updating the regulatory\nframework.",
+    "source": "semantic",
+    "offset": 502
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_503",
+    "text": "The future of AI governance will likely involve a dynamic balance between\nproviding legal certainty for AI developers and deployers while keeping some terms and\nconcepts strategically vague to cover forthcoming AI advancements.",
+    "source": "semantic",
+    "offset": 503
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_504",
+    "text": "The multilevel\nstructure discussed, ranging from principles in the AIA to rules in delegated and\nimplementing acts, technical standards, and extensive guidance, may combine such safe\nharbors with open-textured terminology.",
+    "source": "semantic",
+    "offset": 504
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_505",
+    "text": "Competing interests.",
+    "source": "semantic",
+    "offset": 505
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_506",
+    "text": "The author(s) declare none.",
+    "source": "semantic",
+    "offset": 506
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_507",
+    "text": "Cite this article: C Novelli, P Hacker, J Morley, J Trondal, and L Floridi, “A Robust Governance for the AI Act: AI\nOffice, AI Board, Scientific Panel, and National Authorities”.",
+    "source": "semantic",
+    "offset": 507
+  },
+  {
+    "id": "A_Robust_Governance_for_the_AI_Act_semantic_508",
+    "text": "European Journal of Risk Regulation. https://doi.org/\n10.1017/err.2024.57\nEuropean Journal of Risk Regulation\n25\nhttps://doi.org/10.1017/err.2024.57 Published online by Cambridge University Press",
+    "source": "semantic",
+    "offset": 508
+  }
+]
